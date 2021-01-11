@@ -15,13 +15,38 @@ Industrial policy is an old idea. Perhaps as old as the institutions of capitali
 
 ## Useful Overviews.
 
-## Part 1 - Concepts, Controversies,
 
-## Part 2 - Trade Policy - , Liberalisation
+## Part 1 - Concepts, Controversies, and Data.
 
-## Part 3 - Networks and Linkages
+### 1.1 - What Is Industrial Policy? Why?
 
-## Part 4 - 
+### 1.2 - Splitting Hairs: History, Debates, and the Role of Empirics.
+
+### Lecture - Evidence Around Industrial Policy? What is working?
+
+
+## Part 2 - Externalities and Non-Convexities. 
+
+
+### 2.1 - Why Trade Policy?
+
+### 2.2 - ISI - Infant Industry Policy
+
+### 2.3 - Big Pushes
+
+
+## Part 3 - Trade Policy
+
+### 3.1 - Why Trade Policy?
+
+### 3.2 - Infant Industry Policy Protection
+
+### 3.3 - In a Globalized World - Export Promotion, Industrial Upgrading.
+
+
+## Part 4 - Networks, Clusters, and The State
+
+
 
 
 ## Reading List 
