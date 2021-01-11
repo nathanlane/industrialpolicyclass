@@ -11,13 +11,13 @@ This class is an excellent follow-up to Douglas Gollin's Structural Transformati
 
 Industrial policy is an old idea. Perhaps as old as the institutions of capitalism itself. Even though countries pursue industrial development through industrial policy. 
 
-## Required Readings:
+## Useful Overviews.
 
-## Part 1 -
+## Part 1 - Concepts and Controversies
 
 ## Part 2 - 
 
-## Part 3 - 
+## Part 3 - Networks and Linkages
 
 ## Part 4 - 
 
