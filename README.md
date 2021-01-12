@@ -16,9 +16,11 @@ Industrial policy is an old idea. Perhaps as old as the institutions of capitali
 This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. 
 
 
-# Office Hours 
+# Office Hours & Communication. 
 
-I hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock.  If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. I do my best to answer those e-mails promptly, but if for some reason you do not get a response, just nudge me. 
+_E-mail_ It always helps to refere to the module in the header of your mail. I do my best to answer those e-mails promptly, but if for some reason you do not get a response, just nudge me. 
+
+_Office Hours_ I hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock.  If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. 
 
 For convenience, office hours will be held at my Merton College office (Fellows Quad, Staircase 4, Room 4.8), around the corner from the Exam School (where lectures will take place). It's at the top of the staircase. __Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours__, in which case these issues are moot and I will post the Zoom link accordingly.
 
@@ -28,8 +30,10 @@ _Office Hours Hillary Terms_
 - Week 7 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
 - Week 8 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
 
-## Useful Overviews.
 
+# Schedule of Lectures and Readings
+
+Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
 
 ## Part 1 - Concepts, Controversies, and a Contested Domain.
 In the first part we will discuss what all this means. We'll fix ideas and talk through what all this is about. 
