@@ -38,6 +38,7 @@ __Office Hours__  -  I hold regular teaching office hours each week. You do not 
 For convenience, office hours will be held at my Merton College office (_Fellows Quad, Staircase 4, Room 4.8_), around the corner from the Exam School (where lectures will take place). I figure this is easier and more accessible than my office in the economics department. My college office is located on the Merton College grounds, Staircase 4, Office 4.8. _Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours_, in which case these issues are moot and I will post the Zoom link accordingly.
 
 _Office Hours Hilary Term_
+
 Location:  Merton College, Office 4.8, Fellows Quard, Staircase 4.
 
 - Week 6 - Thursday, 5:00 PM - 6:00 PM 
