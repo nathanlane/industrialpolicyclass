@@ -3,15 +3,14 @@ Industrial development and industrial policy class.
 
 This is a course webpage, together with the Canvas page, dedicated to the Industrial Development module 
 
-# Syllabus Main.
+# The Class
 
-This module is about industrial policy and industrial development. Or more precisely, how the former causes and leads to the latter. We will explore how policy has played a role in shaping the structural transformation, in particular how they promote (or stymied) the development of industries. 
+This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. We will study that governments use to do so; the arguments for and against; why have these interventions been controversial, and why are they still.
 
-This class is an excellent follow-up to Douglas Gollin's Structural Transformation Module. Trade may be a good one too. But none of these are necessary. In general, the subject matter and the content will be quite similar. This course will be empirically focused. We will revisit the core ideas about industrial policy, with a goal of thinking about empirics. Specifically, modern empirics.
+This module will approach this subject from an empirical angle. While this classe will cover the theoretical arguments behind industrial policy, the focus will be on econometric evidence, and reviewing recent econometric evidence around policies. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However, none of these are necessary.
 
-Industrial policy is an old idea. Perhaps as old as the institutions of capitalism. Nevetherless, as a subject studied by economists, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. 
+Industrial policy is an old idea. Perhaps as old as the institutions of capitalism. Nevetherless, as a subject studied by economists, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
-This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. For example, in the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
 ## Schedule and Structure 
 
