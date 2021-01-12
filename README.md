@@ -13,7 +13,10 @@ Industrial policy is an old idea. Perhaps as old as the institutions of capitali
 
 This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. For example, in the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
-## Schedule
+## Schedule and Structure 
+
+
+### Timeline
 
 This module for the development economics MSc. will take place the second half of Oxford's Hilary term. The meeting times are as follows. Of course, the world is crumbling right now, so this may change.
 
@@ -28,6 +31,21 @@ This module for the development economics MSc. will take place the second half o
 
 
 I will also schedule some revision sessions in Trinity Term for students who might want to talk through particular sample essay topics to prepare for exams. These will are TBD. Watch this space.
+
+### Structure and Organization  
+
+The module is four blocks, each consisting of a two-hour lecture ("main lecture") and a one-hour class ("short lecture"). The principal topics covered are.
+
+The course is structured around four themese in industrial policy and development. The class is focused on how states use intentional policy to shape the composition of economic activity in an economy. 
+
+- Fixing Ideas and the Debate. 
+
+- Externalities and Increasing Returns. We'll explore the justifications for industrial development, revisiting the arguments for interventions.  
+
+- The role of trade. Trade policy as industrial policy, and how domestic industrial development interacts with global product markets. 
+
+- Networks, Linkages, and Clusters. 
+
 
 ## Office Hours & Communication
 
