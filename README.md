@@ -22,9 +22,9 @@ __E-mail__ - It always helps to refere to the module in the header of your mail.
 
 __Office Hours__  -  I hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock.  If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. 
 
-For convenience, office hours will be held at my Merton College office (Fellows Quad, Staircase 4, Room 4.8), around the corner from the Exam School (where lectures will take place). It's at the top of the staircase. __Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours__, in which case these issues are moot and I will post the Zoom link accordingly.
+For convenience, office hours will be held at my Merton College office (Fellows Quad, Staircase 4, Room 4.8), around the corner from the Exam School (where lectures will take place). I figure this is easier and more accessible than my office in the economics department. My college office is located on the Merton College grounds, Staircase 4, Office 4.8. __Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours__, in which case these issues are moot and I will post the Zoom link accordingly.
 
-_Office Hours Hilary Terms_
+_Office Hours Hilary Term_
 - Week 5 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
 - Week 6 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
 - Week 7 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
