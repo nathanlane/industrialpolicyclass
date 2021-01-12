@@ -9,9 +9,9 @@ This module is about industrial policy and industrial development. Or more preci
 
 This class is an excellent follow-up to Douglas Gollin's Structural Transformation Module. Trade may be a good one too. But none of these are necessary. In general, the subject matter and the content will be quite similar. This course will be empirically focused. We will revisit the core ideas about industrial policy, with a goal of thinking about empirics. Specifically, modern empirics.
 
-Industrial policy is an old idea. Perhaps as old as the institutions of capitalism itself. Even though countries pursue industrial development through industrial policy, and never stopped doing so, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus may look a little strange. You'll see a lot of old papers about theories, with a smattering of fairly recents empirical papers. It's not because I think it's cool _per se_ to read old economics papers, but because a lot of these ideas have only started to be tested recently. 
+Industrial policy is an old idea. Perhaps as old as the institutions of capitalism. Nevetherless, as a subject studied by economists, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. 
 
-This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. 
+This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. For example, in the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
 ## Schedule
 
@@ -39,7 +39,7 @@ For convenience, office hours will be held at my Merton College office (_Fellows
 
 _Office Hours Hilary Term_
 
-Location:  Merton College, Office 4.8, Fellows Quard, Staircase 4.
+Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 
 - Week 6 - Thursday, 5:00 PM - 6:00 PM 
 - Week 7 - Thursday, 5:00 PM - 6:00 PM 
