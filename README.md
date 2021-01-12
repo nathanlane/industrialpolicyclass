@@ -5,8 +5,7 @@ This is a course webpage, together with the Canvas page, dedicated to the Indust
 
 # Syllabus 
 
-This module is about industrial policy and industrial development. Or more precisely, how the former causes and leads to the latter. We will explore how policy has played a role in shaping the structural transformation, in particular how they promote (or stymied) industrial development.
-
+This module is about industrial policy and industrial development. Or more precisely, how the former causes and leads to the latter. We will explore how policy has played a role in shaping the structural transformation, in particular how they promote (or stymied) the development of industries. 
 
 This class is an excellent follow-up to Douglas Gollin's Structural Transformation Module. Trade may be a good one too. But none of these are necessary. In general, the subject matter and the content will be quite similar. This course will be empirically focused. We will revisit the core ideas about industrial policy, with a goal of thinking about empirics. Specifically, modern empirics.
 
@@ -19,11 +18,11 @@ This readings in this class will seem a bit unorthodox. It's a class on concepts
 This module for the development economics MSc. will take place the second half of Oxford's Hilary term. The meeting times are as follows. Of course, the world is crumbling right now, so this may change.
 
 - Week 6 - Main lecture 1 - Friday, 11:15 AM - 1:15 PM 
-- Week 7 - Short Lecture 1 - Thurday, 15:30 PM - 16:30 PM, 
+- Week 7 - Short Lecture 1 - Thurday, 3:30 PM - 4:30 PM
 - Week 7 - Main lecture 2 -  Friday, 11:15 AM - 1:15 PM 
-- Week 8 - Short Lecture 2 - Thurday, 15:30 PM - 16:30 PM
+- Week 8 - Short Lecture 2 - Thurday, 3:30 PM - 4:30 PM
 - Week 8 - Main lecture 3 -  Friday, 11:15 AM - 1:15 PM 
-- Week 9 - Short Lecture 3 - Thurday, 15:30 PM - 16:30 PM
+- Week 9 - Short Lecture 3 - Thurday, 3:30 PM - 4:30 PM
 - Week 9 - Main lecture 4 -  Friday, 11:15 AM - 1:15 PM 
 - Week 9 - Short lecture 4 - Saturday, 12:00 Noon - 1:00 PM
 
@@ -41,10 +40,10 @@ For convenience, office hours will be held at my Merton College office (_Fellows
 _Office Hours Hilary Term_
 Location:  Merton College, Office 4.8, Fellows Quard, Staircase 4.
 
-- Week 6 - Thursday, 17:00-18:00 PM 
-- Week 7 - Thursday, 17:00-18:00 PM 
-- Week 8 - Thursday, 17:00-18:00 PM 
-- Week 9 - Thursday, 17:00-18:00 PM 
+- Week 6 - Thursday, 5:00 PM - 6:00 PM 
+- Week 7 - Thursday, 5:00 PM - 6:00 PM 
+- Week 8 - Thursday, 5:00 PM - 6:00 PM 
+- Week 9 - Thursday, 5:00 PM - 6:00 PM 
 
 
 # Schedule of Lectures and Readings
@@ -87,7 +86,3 @@ What _is_ the difference between trade policy and industrial policy.
 
 ## Part 4 - Networks, Clusters, and The State
 
-
-
-
-## Reading List 
