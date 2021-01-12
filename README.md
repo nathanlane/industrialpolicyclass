@@ -5,7 +5,6 @@ This is a course webpage, together with the Canvas page, dedicated to the Indust
 
 # Syllabus 
 
-
 This module is about industrial policy and industrial development. Or more precisely, how the former causes and leads to the latter. We will explore how policy has played a role in shaping the structural transformation, in particular how they promote (or stymied) industrial development.
 
 
@@ -15,20 +14,37 @@ Industrial policy is an old idea. Perhaps as old as the institutions of capitali
 
 This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. 
 
+## Schedule
 
-# Office Hours & Communication. 
+This module for the development economics MSc. will take place the second half of Oxford's Hilary term. The meeting times are as follows. Of course, the world is crumbling right now, so this may change.
+
+- Week 6 - Main lecture 1 - Friday, 11:15 AM - 1:15 PM 
+- Week 7 - Short Lecture 1 - Thurday, 15:30 PM - 16:30 PM, 
+- Week 7 - Main lecture 2 -  Friday, 11:15 AM - 1:15 PM 
+- Week 8 - Short Lecture 2 - Thurday, 15:30 PM - 16:30 PM
+- Week 8 - Main lecture 3 -  Friday, 11:15 AM - 1:15 PM 
+- Week 9 - Short Lecture 3 - Thurday, 15:30 PM - 16:30 PM
+- Week 9 - Main lecture 4 -  Friday, 11:15 AM - 1:15 PM 
+- Week 9 - Short lecture 4 - Saturday, 12:00 Noon - 1:00 PM
+
+
+I will also schedule some revision sessions in Trinity Term for students who might want to talk through particular sample essay topics to prepare for exams. These will are TBD. Watch this space.
+
+## Office Hours & Communication
 
 __E-mail__ - It always helps to refere to the module in the header of your mail. I do my best to answer those e-mails promptly, but if for some reason you do not get a response, just nudge me. 
 
 __Office Hours__  -  I hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock.  If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. 
 
-For convenience, office hours will be held at my Merton College office (Fellows Quad, Staircase 4, Room 4.8), around the corner from the Exam School (where lectures will take place). I figure this is easier and more accessible than my office in the economics department. My college office is located on the Merton College grounds, Staircase 4, Office 4.8. __Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours__, in which case these issues are moot and I will post the Zoom link accordingly.
+For convenience, office hours will be held at my Merton College office (_Fellows Quad, Staircase 4, Room 4.8_), around the corner from the Exam School (where lectures will take place). I figure this is easier and more accessible than my office in the economics department. My college office is located on the Merton College grounds, Staircase 4, Office 4.8. _Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours_, in which case these issues are moot and I will post the Zoom link accordingly.
 
 _Office Hours Hilary Term_
-- Week 5 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
-- Week 6 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
-- Week 7 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
-- Week 8 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
+Location:  Merton College, Office 4.8, Fellows Quard, Staircase 4.
+
+- Week 6 - Thursday, 17:00-18:00 PM 
+- Week 7 - Thursday, 17:00-18:00 PM 
+- Week 8 - Thursday, 17:00-18:00 PM 
+- Week 9 - Thursday, 17:00-18:00 PM 
 
 
 # Schedule of Lectures and Readings
