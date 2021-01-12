@@ -1,4 +1,4 @@
-# Industrial Policy Module - Oxford
+# Industrial Policy MSc. - Syllabus Home
 Industrial development and industrial policy class.
 
 This is a course webpage, together with the Canvas page, dedicated to the Industrial Development module 
