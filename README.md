@@ -23,10 +23,10 @@ I hold regular teaching office hours each week. You do not need an appointment t
 For convenience, office hours will be held at my Merton College office (Fellows Quad, Staircase 4, Room 4.8), around the corner from the Exam School (where lectures will take place). It's at the top of the staircase. __Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours__, in which case these issues are moot and I will post the Zoom link accordingly.
 
 _Office Hours Hillary Terms_
-- Week 6 - Merton College, Office 4.8, Fellows Quard Fellows 4 - 17:30-18:30 PM 
-- Week 7 - Merton College, Office 4.8, Fellows Quard Fellows 4 - 17:30-18:30 PM 
-- Week 8 - Merton College, Office 4.8, Fellows Quard Fellows 4 - 17:30-18:30 PM 
-- Week 9 - Merton College, Office 4.8, Fellows Quard Fellows 4 - 17:30-18:30 PM 
+- Week 5 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
+- Week 6 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
+- Week 7 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
+- Week 8 - Merton College, Office 4.8, Fellows Quard, Staircase 4 - Thursday, 17:30-18:30 PM 
 
 ## Useful Overviews.
 
