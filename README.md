@@ -1,7 +1,5 @@
-# Industrial Policy MSc. - Syllabus Home
-Industrial development and industrial policy class.
-
-This is a course webpage, together with the Canvas page, dedicated to the Industrial Development module 
+# Industrial Policy - Syllabus Home
+This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development* for University of Oxford's Economic Development MSc. Hilary term 2021.
 
 # The Class
 
