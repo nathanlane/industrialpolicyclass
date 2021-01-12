@@ -3,7 +3,7 @@ Industrial development and industrial policy class.
 
 This is a course webpage, together with the Canvas page, dedicated to the Industrial Development module 
 
-# Syllabus 
+# Syllabus Main.
 
 This module is about industrial policy and industrial development. Or more precisely, how the former causes and leads to the latter. We will explore how policy has played a role in shaping the structural transformation, in particular how they promote (or stymied) the development of industries. 
 
