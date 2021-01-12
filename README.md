@@ -13,7 +13,13 @@ This class is an excellent follow-up to Douglas Gollin's Structural Transformati
 
 Industrial policy is an old idea. Perhaps as old as the institutions of capitalism itself. Even though countries pursue industrial development through industrial policy, and never stopped doing so, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus may look a little strange. You'll see a lot of old papers about theories, with a smattering of fairly recents empirical papers. It's not because I think it's cool _per se_ to read old economics papers, but because a lot of these ideas have only started to be tested recently. 
 
-Thus, this class is kind of awkward. Awkward: in that it will not be a class where there are clear answers or solutions, or even well-defined paper trails. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. 
+This readings in this class will seem a bit unorthodox. It's a class on concepts and policies that are operating, but one where economic research has (relatively-speaking) had little to say. 
+
+
+# Office Hours 
+
+I hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock.  If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. I do my best to answer those e-mails promptly, but if for some reason you do not get a response, just nudge me. 
+
 
 ## Useful Overviews.
 
