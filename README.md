@@ -133,5 +133,3 @@ Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technol
 
 
 *********
-
-## The Big Reading List.
