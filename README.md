@@ -1,9 +1,7 @@
 # Industrial Policy - Syllabus Home
-This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*
-
+This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*.
 University of Oxford's Economic Development MSc. Hilary term 2021.
-
-Dr. Nathan Lane, A/Prof. Oxford, Fellow Merton College
+[Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
 
 ## Table of contents
 {: .no_toc .text-delta }
