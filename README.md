@@ -129,7 +129,7 @@ Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led 
 - Required Readings  
 
 - Suggested Readings
-Reka Juhasz's (VoxEU)[https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade] write-up on the Napoleonic Blockade.
+Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
 
 
 ================
