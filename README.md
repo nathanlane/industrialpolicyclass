@@ -1,9 +1,15 @@
 # Industrial Policy and Development Module - Syllabus Home
-{: .no_toc .text-delta }
+{: .no_toc}
 This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*. 
+
+## The Module
+{: .no_toc .text-delta }
 
 University of Oxford's Economic Development MSc. Hilary Term, 2021.  
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
+
+Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
+The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
 
 ## Syllabus - Table of Contents
 {: .no_toc .text-delta }
@@ -83,38 +89,30 @@ Please note that the lectures may cover additional papers and omit some of these
 
 ### Part 1 - Concepts, Controversies, and the State
 
-- Topics covered
+- Introduction to industrial policy as a concept. Why does industrial development matter in the grande scheme of things. 
 
--- Industrial Policy and Industrial Development - What and Why?
-Introduction to industrial policy as a concept. Why does industrial development matter in the grande scheme of things. 
+- Reviewing the history of an idea. This will serve as an entry point for cataloguing the justifications for and against these interventions.
 
--- Justifications and Debates.
-Here we turn to the justifications of industrial policy and interventions to address industrial development. We also try to categorise and classify some of the justifications for these policies. These justifications will form the backbone of what we'll discuss throughout the class.
+- Part 1 Tutorial. - The political economy of industrial policy, and "the big debate." States are at the heart of the debate surrounding industrial policy.
 
-- Required reading: 
---
---
+### Part 2 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
 
-- Part 1 Tutorial. 
+- Clarifying concepts around externalities.  were at the heart of justifications surrounding industrial policy. 
 
-### Part 3 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
+- Learning-by-doing 
 
--
+- Part 2 Tutorial. Visiting recent new research on externalities for industrial development.
 
-- Part 2 Tutorial. 
+### Part 3 - Network Spillovers, Linkages, and FDI
 
+- The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying?
 
-### Part 2 - Networks, Linkage, and FDI
+- FDI (foreign direct investment) has a long, intimate relationship with linkage concepts. 
 
+- Suggested Readings. 
+Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
 
-
-- Infant industry arguments and increasing returns-to-scale.
-
-- Dynamic externalities and learning-by-doing. 
-
-Required reading: 
-
-
+- Part 3 Tutorial. Going deeper into the network economy. 
 
 ### Part 4 - Trade - Imports, Exports, Policy
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
@@ -128,8 +126,11 @@ Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led 
 
 - Required Readings  
 
-- Suggested Readings
+- Suggested Readings  
+
 Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
+
+Trade Talks [Podcast Episode](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade).
 
 
 *********
