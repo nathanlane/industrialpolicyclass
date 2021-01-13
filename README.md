@@ -55,7 +55,7 @@ The course is structured around four themese in industrial policy and developmen
 
 ## Office Hours & Communication
 
-__E-mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). I do my best to answer e-mails promptly, but if for some reason you do not get a response, just nudge me. Especially with remote teaching, it's (sadly) not uncommon for things to fall through the cracks.
+__E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). I do my best to answer e-mails promptly, but if for some reason you do not get a response, just nudge me. Especially with remote teaching, it's (sadly) not uncommon for things to fall through the cracks.
 
 __Office Hours__  -  I will hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock. If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. 
 
@@ -75,7 +75,7 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 
 Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
 
-### Block 1 - Concepts, Controversies, and a Contested Domain.
+### Part 1 - Concepts, Controversies, and a Contested Domain.
 In the first part we will discuss what all this means. We'll fix ideas and talk through what all this is about. 
 
 - Industrial Policy and Industrial Development - What and Why?
@@ -84,27 +84,24 @@ Introduction to industrial policy as a concept. Why does industrial development 
 - Historical Context, Debates, Justifications. 
 Industrial policy has been quite controversial. Here we turn to the justifications of industrial policy and interventions to address industrial development. We also try to categorise and classify some of the justifications for these policies. These justifications will form the backbone of what we'll discuss throughout the class. 
 
-### Block 2 - Infant Industries, Dynamic Externalities, and Learning-by-Doing.
+### Part 2 - Networks, Clusters, and The State
+
+
+### Part 3 - Infant Industries, Dynamic Externalities, and Learning-by-Doing.
 
 - 
 
 - Learning-by-Doing
 
 
-### Lecture - Evidence Around Industrial Policy? What is working?
 
 
-## Part 3 - Trade - Imports, Exports, Policy
+### Part 4 - Trade - Imports, Exports, Policy
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
 
-### 3.1 - Why Trade Policy? 
+- __Why Trade Policy?__
 What _is_ the difference between trade policy and industrial policy. 
 
-### 3.2 - Imports - Import Substitution (ISI), Protection, and Liberalisation of Inputs
+__Imports and Exports__ - Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led Growth, Export Promotion Policy
 
-### 3.3 - Export - Export-led Growth, Export Promotion Policy
-
-### Lecture - Empirical Papers and Evidence
-
-## Part 4 - Networks, Clusters, and The State
 
