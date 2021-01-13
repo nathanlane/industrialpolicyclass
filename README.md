@@ -1,6 +1,12 @@
 # Industrial Policy - Syllabus Home
 This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development* for University of Oxford's Economic Development MSc. Hilary term 2021.
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # The Class
 
 This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. We will study that governments use to do so; the arguments for and against; why have these interventions been controversial, and why are they still.
