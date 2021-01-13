@@ -1,6 +1,6 @@
-# Industrial Policy - Syllabus Home
+# Industrial Policy and Development Module - Syllabus Home
 {: .no_toc .text-delta }
-This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*.  
+This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*. 
 
 University of Oxford's Economic Development MSc. Hilary Term, 2021.  
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
@@ -75,33 +75,53 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 
 Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
 
-### Part 1 - Concepts, Controversies, and a Contested Domain.
-In the first part we will discuss what all this means. We'll fix ideas and talk through what all this is about. 
+### Part 1 - Concepts, Controversies, and the State
 
-- Industrial Policy and Industrial Development - What and Why?
+- Topics covered
+
+-- Industrial Policy and Industrial Development - What and Why?
 Introduction to industrial policy as a concept. Why does industrial development matter in the grande scheme of things. 
 
-- Historical Context, Debates, Justifications. 
-Industrial policy has been quite controversial. Here we turn to the justifications of industrial policy and interventions to address industrial development. We also try to categorise and classify some of the justifications for these policies. These justifications will form the backbone of what we'll discuss throughout the class. 
+-- Justifications and Debates.
+Here we turn to the justifications of industrial policy and interventions to address industrial development. We also try to categorise and classify some of the justifications for these policies. These justifications will form the backbone of what we'll discuss throughout the class.
 
-### Part 2 - Networks, Clusters, and The State
+- Required reading: 
+--
+--
+
+- Part 1 Tutorial. 
+
+### Part 3 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
+
+-
+
+- Part 2 Tutorial. 
 
 
-### Part 3 - Infant Industries, Dynamic Externalities, and Learning-by-Doing.
+### Part 2 - Networks, Linkage, and FDI
 
-- 
 
-- Learning-by-Doing
 
+- Infant industry arguments and increasing returns-to-scale.
+
+- Dynamic externalities and learning-by-doing. 
+
+Required reading: 
 
 
 
 ### Part 4 - Trade - Imports, Exports, Policy
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
 
-- __Why Trade Policy?__
+- Why Trade Policy?  
 What _is_ the difference between trade policy and industrial policy. 
 
-__Imports and Exports__ - Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led Growth, Export Promotion Policy
+- Imports and Exports  
+Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led Growth, Export Promotion Policy
 
 
+- Required Readings  
+
+- Suggested Readings
+-- Reka Juhasz's (VoxEU)[https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade] write-up on the Napoleonic Blockade.
+--
