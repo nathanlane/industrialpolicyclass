@@ -75,7 +75,7 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 - Week 8 - Thursday, 5:00 PM - 6:00 PM 
 - Week 9 - Thursday, 5:00 PM - 6:00 PM 
 
-================
+*********
 
 ## Schedule of Lectures and Readings
 
