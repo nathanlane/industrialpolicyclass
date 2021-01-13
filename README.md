@@ -12,7 +12,8 @@ University of Oxford's Economic Development MSc. Hilary Term, 2021.
 {:toc}
 
 
-================
+*********
+
 ## Industrial Policy Class Introduction
 
 This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. We will study that governments use to do so; the arguments for and against; why have these interventions been controversial, and why are they still.
@@ -21,7 +22,8 @@ This module will approach this subject from an empirical angle. While this class
 
 Industrial policy is an old idea. In a sense, as old as the institutions of capitalism. Nevetherless, as a subject studied by economists, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
-================
+*********
+
 ## Schedule and Structure 
 
 ### Timeline
@@ -54,8 +56,9 @@ The course is structured around four themese in industrial policy and developmen
 
 - __Block 4:__ Network externalities, linkages, and clusters. 
 
-================
-## Office Hours & Communication
+*********
+
+## Office Hours, Communication, & Reaching Out.
 
 __E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). I do my best to answer e-mails promptly, but if for some reason you do not get a response, just nudge me. Especially with remote teaching, it's (sadly) not uncommon for things to fall through the cracks.
 
@@ -73,6 +76,7 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 - Week 9 - Thursday, 5:00 PM - 6:00 PM 
 
 ================
+
 ## Schedule of Lectures and Readings
 
 Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
@@ -127,3 +131,7 @@ Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led 
 - Suggested Readings
 Reka Juhasz's (VoxEU)[https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade] write-up on the Napoleonic Blockade.
 
+
+================
+
+## The Big Reading List.
