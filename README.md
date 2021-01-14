@@ -22,11 +22,9 @@ The live webpage will live on Canvas and [http://nathanlane.info/industrialpolic
 
 ## Industrial Policy Class Introduction
 
-This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. We will study that governments use to do so; the arguments for and against; why have these interventions been controversial, and why are they still.
+This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. In doing so we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
-This module will approach this subject from an empirical angle. While this classe will cover the theoretical arguments behind industrial policy, the focus will be on econometric evidence, and reviewing recent econometric evidence around policies. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However, none of these are necessary.
-
-Industrial policy is an old idea. In a sense, as old as the institutions of capitalism. Nevetherless, as a subject studied by economists, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
+This class will focus on practice and evidence. While this classe will cover the theoretical arguments behind industrial policy, the focus will be on attempts to evaluate the impact of these policies. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However, none of these are necessary.
 
 *********
 
@@ -64,7 +62,7 @@ The course is structured around four themese in industrial policy and developmen
 
 *********
 
-## Office Hours, Communication, & Reaching Out.
+## Office Hours, Communication, & Advising.
 
 __E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). I do my best to answer e-mails promptly, but if for some reason you do not get a response, just nudge me. Especially with remote teaching, it's (sadly) not uncommon for things to fall through the cracks.
 
@@ -85,10 +83,16 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 
 ## Schedule of Lectures and Readings
 
-Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
+Please note that the lectures may cover additional papers and omit some of these. Each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set.
+
+### A Note on the syllabus and readings.
+Industrial policy is an old idea. In a sense, these policies are as old as the institutions of capitalism. Nevetherless, as a subject of inquirty, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the following syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Don't be deceived by an older paper. It's punchline may still be worthwhile.
+
+Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered. 
+
 
 ### Part 1 - Concepts, Controversies, and the State
-Introduction to industrial policy as a concept--and controversies. This will serve as an entry point for cataloguing the justifications for and against these interventions.
+Introduction to industrial policy as a concept--and controversies. This will serve as an entry point for cataloguing the justifications for and against these interventions. We will end by trying to focus on the political economy of these policies.
 
 - Required Readings.
   - Rodrik, D. (2008). Normalizing Industrial Policy (No. 28009; World Bank Publications). The World Bank.
@@ -96,33 +100,33 @@ Introduction to industrial policy as a concept--and controversies. This will ser
   - Rodrik, D. (2008). Second-Best Institutions. The American Economic Review, 98(2), 100–104. http://www.jstor.org/stable/29730003
   - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
+
 - Suggested Readings.
   - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
-  - Krueger, A. O., & Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029  
-  - Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
   - Lin, J. Y., & Monga, C. (2013). Comparative Advantage: The Silver Bullet of Industrial Policy. In J. E. Stiglitz & J. Y. Lin (Eds.), The Industrial Policy Revolution I: The Role of Government Beyond Ideology (pp. 19–38). Palgrave Macmillan UK. https://doi.org/10.1057/9781137335173_2
   - Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
-  
+
 
 - Further Readings.
-
+  - Baldwin, R. E. (1969). The Case against Infant Industry Tariff Protection. Journal of Political Economy, 77(3), 295–305.
+  - Krueger, A. O., & Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029  
+  - Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
   - Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl_1.19
   - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
-  - Baldwin, R. E. (1969). The Case against Infant Industry Tariff Protection. Journal of Political Economy, 77(3), 295–305.
 
 
-- Part 1 Tutorial. - The political economy of industrial policy, and "the big debate." States are at the heart of the debate surrounding industrial policy.
+- Part 1 Tutorial. - The political economy of industrial policy.
 
 
-### Part 2 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
-Clarifying concepts around externalities.  were at the heart of justifications surrounding industrial policy. Reviewing types of technical externalities and policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
+### Part 2 - Externalities - Infant Industries, Learning-by-Doing, and Scale Economies. 
+In this section we get more precise about the nature of externalities. We focus on two types of externalities associated with justifications of industrial policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
 
 - Required Readings. 
-  - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
-  - Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
-  - Beason, R., & Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
-  - Thornton, R. A., & Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
 
+  - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.  
+  - Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
+  - Thornton, R. A., & Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
+  - Beason, R., & Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
 
 - Suggested Readings.
 
@@ -130,49 +134,50 @@ Clarifying concepts around externalities.  were at the heart of justifications s
   - Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
   - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
   - Levitt, S. D., List, J. A., & Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
- 
+  - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 
-- Part 2 Tutorial. Empirical topics in place-based industrial policy.
+- Part 2 Tutorial. Place-based industrial policy.
 
 
 
 ### Part 3 - Externalities - Network Spillovers, Clusters, and Foreign Direct Investment.
+- The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying? This will include how to think the practicalities of the input-output table, and how they're used in discussing industrial policy practice. We will used the old idea of linkages to also consider the role they play in foreign direct investment (FDI). 
 
-- The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying?
-
-- FDI (foreign direct investment) has a long, intimate relationship with linkage concepts. 
-
-- Required Readings.
-
-
-
-Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
-
+- Required Readings.  
+    - Alfaro, L., & Rodríguez-Clare, A. (2004). Multinationals and Linkages: An Empirical Investigation. Economía, 7(4), 113–169. https://doi.org/10.1353/eco.2004.0012
+    - [FDI Section] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+    - Blonigen, B. A. (2016). Industrial Policy and Downstream Export Performance. Economic Journal, 126(595), 1635–1659. https://doi.org/10.1111/ecoj.12223
 
 - Suggested Readings. 
-Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
 
-[FDI part] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+    - Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
+    - Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The  American Economic Review, 94(3), 605–627.
+    - Rodríguez-Clare, A. (2007). Clusters and comparative advantage: Implications for industrial policy. Journal of Development Economics, 82(1), 43–57. https://doi.org/https://doi.org/10.1016/j.jdeveco.2005.09.001    
+    - Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
+
 
 - Part 3 Tutorial. Unpacking the theory and empirics of the network economy.
 
 ### Part 4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
-Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
-
-- Why Trade Policy?  
-What _is_ the difference between trade policy and industrial policy. 
-
-- Imports and Exports  
-Import Substitution (ISI), Protection, and Liberalisation of Inputs. Export-led Growth, Export Promotion Policy
+Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The discussion of export-focused IP dovetails with with our discussion of. 
 
 
-- Required Readings  
+- Required Readings.  
+     - Nunn, N., & Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
+     - Juhasz, R. (2018). Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade. American Economic Review, 108(11), 3339–3376. https://doi.org/https://doi.org/10.1257/aer.20151730
 
-- Suggested Readings  
 
-Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
+- Suggested Readings.  
 
-Trade Talks [Podcast Episode](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade).
+     - Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
+     - Hausmann, R., & Rodrik, D. (2003). Economic development as self-discovery. Journal of Development Economics, 72(2), 603–633. https://doi.org/https://doi.org/10.1016/S0304-3878(03)00124-X
 
+
+- Further Readings.  
+
+    - O’Rourke, K. H. (2000). Tariffs and Growth in the Late 19th Century. The Economic Journal, 110(463), 456–483. http://www.jstor.org/stable/2566243
+    - Inwood, K., & Keay, I. (2015). Transport Costs and Trade Volumes: Evidence from the Trans-Atlantic Iron Trade, 1870–1913. The Journal of Economic History, 75(1), 95–124. https://doi.org/DOI: 10.1017/S0022050715000042
+    - Harris, R., Keay, I., & Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
+    - Alexander, P. D., & Keay, I. (2018). A general equilibrium analysis of Canada’s national policy. Explorations in Economic History, 68, 1–15. https://doi.org/https://doi.org/10.1016/j.eeh.2017.11.002
 
 *********
