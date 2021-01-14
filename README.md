@@ -88,48 +88,55 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 Please note that the lectures may cover additional papers and omit some of these; each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. Just shoot me an email. 
 
 ### Part 1 - Concepts, Controversies, and the State
+Introduction to industrial policy as a concept--and controversies. This will serve as an entry point for cataloguing the justifications for and against these interventions.
 
-- Introduction to industrial policy as a concept. Why does industrial development matter in the grande scheme of things. 
+- Required Readings.
+  - Rodrik, D. (2008). Normalizing Industrial Policy (No. 28009; World Bank Publications). The World Bank.
+  - Pack, H., & Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
+  - Rodrik, D. (2008). Second-Best Institutions. The American Economic Review, 98(2), 100–104. http://www.jstor.org/stable/29730003
+  - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
-- Reviewing the history of an idea. This will serve as an entry point for cataloguing the justifications for and against these interventions.
-
-
-- Required Readings
- - Rodrik, D. (2008). Second-Best Institutions. The American Economic Review, 98(2), 100–104. http://www.jstor.org/stable/29730003
- - Pack, H., & Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
- - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
-
-
-- Suggested Readings. 
-Oleg Itskhoki and Ben Moll 's [VoxDev](https://voxeu.org/article/subsidising-growth-argument-pro-business-policies-emerging-markets
+- Suggested Readings.
+  - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
+  - Krueger, A. O., & Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029  
+  - Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
+  - Lin, J. Y., & Monga, C. (2013). Comparative Advantage: The Silver Bullet of Industrial Policy. In J. E. Stiglitz & J. Y. Lin (Eds.), The Industrial Policy Revolution I: The Role of Government Beyond Ideology (pp. 19–38). Palgrave Macmillan UK. https://doi.org/10.1057/9781137335173_2
+  - Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
+  
 
 - Further Readings.
 
   - Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl_1.19
+  - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
+  - Baldwin, R. E. (1969). The Case against Infant Industry Tariff Protection. Journal of Political Economy, 77(3), 295–305.
+
 
 - Part 1 Tutorial. - The political economy of industrial policy, and "the big debate." States are at the heart of the debate surrounding industrial policy.
 
 
 ### Part 2 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
-
-- Clarifying concepts around externalities.  were at the heart of justifications surrounding industrial policy. 
-
-- Reviewing types of technical externalities and policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
+Clarifying concepts around externalities.  were at the heart of justifications surrounding industrial policy. Reviewing types of technical externalities and policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
 
 - Required Readings. 
- - [Part 1 and 2] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+  - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+  - Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
+  - Beason, R., & Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
+  - Thornton, R. A., & Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
 
 
-- Suggested Readings. 
+- Suggested Readings.
 
-Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
-
+  - Oleg Itskhoki and Ben Moll's write-up on the argument of interventions in the presence of financial frictions. See: [VoxDev](https://voxeu.org/article/subsidising-growth-argument-pro-business-policies-emerging-markets).
+  - Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
+  - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
+  - Levitt, S. D., List, J. A., & Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
+ 
 
 - Part 2 Tutorial. Empirical topics in place-based industrial policy.
 
 
 
-### Part 3 - Externalities - Network Spillovers, Clusters, and FDI
+### Part 3 - Externalities - Network Spillovers, Clusters, and Foreign Direct Investment.
 
 - The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying?
 
@@ -149,7 +156,7 @@ Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-fir
 
 - Part 3 Tutorial. Unpacking the theory and empirics of the network economy.
 
-### Part 4 - Trade,
+### Part 4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
 
 - Why Trade Policy?  
