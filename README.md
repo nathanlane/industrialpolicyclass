@@ -189,6 +189,7 @@ Industrial development and trade have a long history. They're innately intertwin
 - Suggested Readings.  
 
      - Reka Juhasz's [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
+     - Beata Javorcik's on lessons from her FDI research [on VoxDec](https://voxdev.org/topic/firms-trade/eight-things-policymakers-should-know-about-foreign-direct-investment)
      - Hausmann, R., & Rodrik, D. (2003). Economic development as self-discovery. Journal of Development Economics, 72(2), 603–633. https://doi.org/https://doi.org/10.1016/S0304-3878(03)00124-X
 
 
