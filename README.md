@@ -1,6 +1,8 @@
 # Industrial Policy and Development Module - Syllabus Home
 {: .no_toc}
-This is a course webpage, together with the Canvas page, dedicated to the *Industrial Development*. 
+
+This is a course webpage, together with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module.
+
 
 ## The Module
 {: .no_toc .text-delta }
@@ -11,6 +13,8 @@ University of Oxford's Economic Development MSc. Hilary Term, 2021.
 Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
 
+
+
 ## Syllabus - Table of Contents
 {: .no_toc .text-delta }
 
@@ -20,11 +24,24 @@ The live webpage will live on Canvas and [http://nathanlane.info/industrialpolic
 
 *********
 
-## Industrial Policy Class Introduction
+## Industrial Policy and Development Introduction
 
 This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. In doing so we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
 This class will focus on practice and evidence. While this classe will cover the theoretical arguments behind industrial policy, the focus will be on attempts to evaluate the impact of these policies. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However, none of these are necessary.
+
+### Objectives
+
+The objectives of this course is to understand core concepts around the industrial promotion. This a short course, thus it is not exhaustive. My goal is to clarify concepts and issues at the heart of this literature and concept. Some of these objectives include understanding,
+
+- Horizontal vs. verticle targeting.
+- Policy levers associated with industrial policy interventions. Including subsidies, tariffs, quotas.
+- Command of the political economy issues surrounding implementation, failure, and capture.
+- Frictions and external economy arguments of behind interventions.
+- Consuming and evaluating the efficacy of research around industrial policy. Including the outcomes associated with industrial policy. 
+- Trade policy and its relationship to industrial policy.
+- Input-output linkages.
+
 
 *********
 
@@ -81,18 +98,20 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 
 *********
 
-## Schedule of Lectures and Readings
+## Schedule of Main Lectures.
+Main lectures are two-hour lectures and discussions. 
 
 Please note that the lectures may cover additional papers and omit some of these. Each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set.
 
-### A Note on the syllabus and readings.
+### Readings 
+Readings are broken down by those required for the command of lecture material. Lectures will draw heavily from required readings. Followed by those that are great follow ups for enrichment. Further readings are for those who want to get into the weeds of a topic. 
+
 Industrial policy is an old idea. In a sense, these policies are as old as the institutions of capitalism. Nevetherless, as a subject of inquirty, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the following syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Don't be deceived by an older paper. It's punchline may still be worthwhile.
 
 Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered. 
 
-
 ### Part 1 - Concepts, Controversies, and the State
-Introduction to industrial policy as a concept--and controversies. This will serve as an entry point for cataloguing the justifications for and against these interventions. We will end by trying to focus on the political economy of these policies.
+Introduction to industrial policy as a concept--and controversies. This will serve as an entry point for creating a taxonomy of the justifications for (and against) these interventions. We will end by trying to focus on the political economy of these policies.
 
 - Required Readings.
   - Rodrik, D. (2008). Normalizing Industrial Policy (No. 28009; World Bank Publications). The World Bank.
@@ -115,7 +134,7 @@ Introduction to industrial policy as a concept--and controversies. This will ser
   - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
 
 
-- Part 1 Tutorial. - The political economy of industrial policy.
+- _Associated 1 Tutorial Lecture - The economy of industrial policy and controversies._
 
 
 ### Part 2 - Externalities - Infant Industries, Learning-by-Doing, and Scale Economies. 
@@ -136,7 +155,7 @@ In this section we get more precise about the nature of externalities. We focus 
   - Levitt, S. D., List, J. A., & Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
   - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 
-- Part 2 Tutorial. Place-based industrial policy.
+- _Associated Tutorial Lecture 2: Place-Based industrial policy and empirics._
 
 
 
@@ -156,11 +175,11 @@ In this section we get more precise about the nature of externalities. We focus 
     - Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
 
 
-- Part 3 Tutorial. Unpacking the theory and empirics of the network economy.
+- _Associated Tutorial Lecture 3: Unpacking industrial networks._
+
 
 ### Part 4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The discussion of export-focused IP dovetails with with our discussion of. 
-
 
 - Required Readings.  
      - Nunn, N., & Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
@@ -179,5 +198,41 @@ Industrial development and trade have a long history. They're innately intertwin
     - Inwood, K., & Keay, I. (2015). Transport Costs and Trade Volumes: Evidence from the Trans-Atlantic Iron Trade, 1870–1913. The Journal of Economic History, 75(1), 95–124. https://doi.org/DOI: 10.1017/S0022050715000042
     - Harris, R., Keay, I., & Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
     - Alexander, P. D., & Keay, I. (2018). A general equilibrium analysis of Canada’s national policy. Explorations in Economic History, 68, 1–15. https://doi.org/https://doi.org/10.1016/j.eeh.2017.11.002
+    
+
+- _Associated Tutorial Lecture 4: Export-Oriented Policy and Empirics._
+
 
 *********
+
+
+## Schedule of Tutorial Lectures.
+
+### Week 1 - Political Economy of Industrial Policy and Controversies.
+
+- Government Failures and Rent-Seeking
+- Information and Political Economy.
+- Justin Lin vs. HJ Chang.
+
+### Week 2 - Place-Based Industrial Policy and Empirics.
+Place-based policies are closely related to industrial development. They are a lot like industrial policy _writ large_, but also represent some of their own challenges.
+
+- Characterize the debate between Tim Bartik. Relate this to the discussion of industrial policy broadly.
+- Place-based industrial subsidies in the UK.
+- Italian lessons on regional development.
+- Special enterprize zones. 
+
+### Week 3 - Industrial Networks.
+Networks get a little more complicated. Especially when we consider them in general equilibrium models. This section is about taking some deep dives into 
+
+- Ernest Liu's network model. Can be shared. 
+- General equilibrium and IO models.
+- Crowding out and general equilibrium effects of subsidies. 
+
+### Week 4 - Export-Promotion and Empirics.
+There has been a ton of work on export-oriented policies. While trade policies have.
+
+- Why export?
+- Economic complexity and export performance.
+- What does export credit do?
+- Scale economies and growth.
