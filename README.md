@@ -93,28 +93,63 @@ Please note that the lectures may cover additional papers and omit some of these
 
 - Reviewing the history of an idea. This will serve as an entry point for cataloguing the justifications for and against these interventions.
 
+
+- Required Readings
+ - Rodrik, D. (2008). Second-Best Institutions. The American Economic Review, 98(2), 100–104. http://www.jstor.org/stable/29730003
+ - Pack, H., & Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
+ - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
+
+
+- Suggested Readings. 
+Oleg Itskhoki and Ben Moll 's [VoxDev](https://voxeu.org/article/subsidising-growth-argument-pro-business-policies-emerging-markets
+
+- Further Readings.
+
+  - Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl_1.19
+
 - Part 1 Tutorial. - The political economy of industrial policy, and "the big debate." States are at the heart of the debate surrounding industrial policy.
+
 
 ### Part 2 - Externalities - Infant Industries, Dynamic Externalities, Learning-by-Doing, and Scale Economies. 
 
 - Clarifying concepts around externalities.  were at the heart of justifications surrounding industrial policy. 
 
-- Learning-by-doing 
+- Reviewing types of technical externalities and policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
 
-- Part 2 Tutorial. Visiting recent new research on externalities for industrial development.
+- Required Readings. 
+ - [Part 1 and 2] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
-### Part 3 - Network Spillovers, Linkages, and FDI
+
+- Suggested Readings. 
+
+Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
+
+
+- Part 2 Tutorial. Empirical topics in place-based industrial policy.
+
+
+
+### Part 3 - Externalities - Network Spillovers, Clusters, and FDI
 
 - The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying?
 
 - FDI (foreign direct investment) has a long, intimate relationship with linkage concepts. 
 
+- Required Readings.
+
+
+
+Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
+
+
 - Suggested Readings. 
 Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
 
-- Part 3 Tutorial. Going deeper into the network economy. 
+[FDI part] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
-### Part 4 - Trade - Imports, Exports, Policy
+- Part 3 Tutorial. Unpacking the theory and empirics of the network economy.
+
+### Part 4 - Trade,
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The former is intimately tied to input 
 
 - Why Trade Policy?  
