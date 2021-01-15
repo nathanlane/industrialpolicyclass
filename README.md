@@ -194,7 +194,7 @@ Industrial development and trade have a long history. They're innately intertwin
 
 
 - Further Readings.  
-
+    - Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
     - O’Rourke, K. H. (2000). Tariffs and Growth in the Late 19th Century. The Economic Journal, 110(463), 456–483. http://www.jstor.org/stable/2566243
     - Inwood, K., & Keay, I. (2015). Transport Costs and Trade Volumes: Evidence from the Trans-Atlantic Iron Trade, 1870–1913. The Journal of Economic History, 75(1), 95–124. https://doi.org/DOI: 10.1017/S0022050715000042
     - Harris, R., Keay, I., & Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
