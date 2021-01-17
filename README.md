@@ -140,7 +140,6 @@ Introduction to industrial policy as a concept--and the controversies surroundin
 ### Part 2 - Externalities - Infant Industries, Learning-by-Doing, and Scale Economies. 
 In this section we get more precise about a set of key externalities underlying arguments for industrial policy for industrial development. We focus on two types of externalities associated with justifications of industrial policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
 
-
 - Required Readings. 
 
   - **[Part 1 & 2 Only]** Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.  
@@ -189,6 +188,7 @@ In this section we get more precise about a set of key externalities underlying 
 ### Part 4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
 Industrial development and trade have a long history. They're innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The discussion of export-focused IP dovetails with with our discussion of. 
 
+
 - Required Readings.
      - Hausmann, R., & Rodrik, D. (2003). Economic development as self-discovery. Journal of Development Economics, 72(2), 603–633. https://doi.org/https://doi.org/10.1016/S0304-3878(03)00124-X
      - Juhasz, R. (2018). Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade. American Economic Review, 108(11), 3339–3376. https://doi.org/https://doi.org/10.1257/aer.20151730
@@ -203,31 +203,49 @@ Industrial development and trade have a long history. They're innately intertwin
 
 - Further Readings. 
     - Atkin, D., Donaldson, D., Rasul, I., Teachout, M., Verhoogen, E., & Woodruff, C. (2019). Firms, trade, and productivity (IGC Evidence Paper, Issue December).
-    - Freund, C., & Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
+    - Belloc, M., & Maio, M. Di. (2011). Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries (Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries).
     - Harris, R., Keay, I., & Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
     - Alexander, P. D., & Keay, I. (2018). A general equilibrium analysis of Canada’s national policy. Explorations in Economic History, 68, 1–15. https://doi.org/https://doi.org/10.1016/j.eeh.2017.11.002
      - Greenwald, B., & Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
 
 
-- _Associated Tutorial Lecture 4: Export-Oriented Policy and Empirics._
+- _Associated Tutorial Lecture 4: Export-oriented policy and empirics._
 
 
 *********
 
 
 ## Schedule of Tutorial Lectures.
-Readings to be provided.
+Below are topics to draw from and their associated readings for presentation. Each topic is empirical, though theoretical topics and presentations are provided.
+
 
 ### Part 1 - Political Economy of Industrial Policy and Controversies
-- Government Failures and Rent-Seeking
-- Information and Political Economy.
+- Government failures and rent-seeking.
+
+- Information and political economy.
+      - Maloney, W. F., & Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
+      
+- History and evolving evidence.
+    
+    - Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
 
 ### Part 2 - Place-Based Industrial Policy and Empirics.
 Place-based policies are closely related to industrial development. They are a lot like industrial policy _writ large_, but also represent some of their own challenges.
 
 - Empirical issues, crowding out, and spillovers.
-- Bartik vs. Neumark.
+
+    - Kline, P., & Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. The Quarterly Journal of Economics, 129(1), 275–331. https://doi.org/doi.org/10.1093/qje/qjt034
+    
+- Bartik vs. Neumark. 
+
+  
+
 - Place-based industrial subsidies in the UK and EU.
+
+    - Criscuolo, C., Martin, R., Overman, H., Reenen, J. Van, & John Van Reenen. (2019). Some Causal Effects of an Industrial Policy. American Economic Review, 109(1), 48–85. https://doi.org/DOI: 10.1257/aer.20160034
+    
+    - Becker, S., Egger, P., & Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. http://www.sciencedirect.com/science/article/pii/S004727271000071X
+    
 
 ### Part 3 - Industrial Networks.
 Networks get a little more complicated. Especially when we consider them in general equilibrium models, or in quantitative detail. This section is about taking some deep dives into linkage topics.
@@ -237,10 +255,15 @@ Networks get a little more complicated. Especially when we consider them in gene
 - Crowding out and general equilibrium effects of subsidies. 
 
 ### Part 4 - Export-Promotion and Empirics.
-There has been a ton of work on export-oriented policies. While trade policies have.
+Topics on export policy and promotion.
 
-- Policy and changing Comparative advantage.
-- Exporting and quality upgrading.
-- Economic complexity and export performance.
-- Randomized evidence on export performance.
+      - Munch, J., & Schaur, G. (2018). The Effect of Export Promotion on Firm-Level Performance. American Economic Journal: Economic Policy, 10(1), 357–387. http://www.aeaweb.org/articles?id=10.1257/pol.20150410
+      
+      - Freund, C., & Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
+      
+      - Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and Plant-Level Efficiency Gains: It’s in the Measure. Journal of Political Economy, 127(4), 1777–1825.
+      - Harding, T., & Javorcik, B. S. (2011). Foreign Direct Investment and Export Upgrading. The Review of Economics and Statistics, 94(4), 964–980. https://doi.org/10.1162/REST_a_00226
+      
+      - Lederman, D., Olarreaga, M., & Payton, L. (2010). Export promotion agencies: Do they work? Journal of Development Economics, 91(2), 257–265. https://doi.org/https://doi.org/10.1016/j.jdeveco.2009.09.003
 
+      - Atkin, D., Khandelwal, A. K., & Osman, A. (2017). Exporting and Firm Performance: Evidence from a Randomized Experiment. The Quarterly Journal of Economics, 132(2), 551–615. http://dx.doi.org/10.1093/qje/qjx002
