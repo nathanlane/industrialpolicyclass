@@ -172,7 +172,7 @@ In this section we get more precise about a set of key externalities underlying 
     - Blonigen, B. A. (2016). Industrial Policy and Downstream Export Performance. Economic Journal, 126(595), 1635–1659. https://doi.org/10.1111/ecoj.12223
     - Lane, N. (2019). Manufacturing Revolutions. Industrial Policy and Industrial Development in South Korea. Working Paper.
     - Alfaro, L., & Rodríguez-Clare, A. (2004). Multinationals and Linkages: An Empirical Investigation. Economía, 7(4), 113–169. https://doi.org/10.1353/eco.2004.0012
-    - [FDI Section] Harrison, A., & Rodríguez-Clare, A. (2010).* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+    - [FDI Section] Harrison, A., & Rodríguez-Clare, A. (2010). Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik & M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
 - Suggested Readings. 
     - Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
