@@ -1,11 +1,11 @@
-# Industrial Policy and Development Module - Syllabus Home
+# Industrial Policy Class
 {: .no_toc}
 
-This is a course webpage, together with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module.
+This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module.
 
 
-## The Module
-{: .no_toc .text-delta }
+# Module Syllabus 
+{: .no_toc }
 
 University of Oxford's Economic Development MSc. Hilary Term, 2021.  
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
