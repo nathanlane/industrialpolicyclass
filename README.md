@@ -236,9 +236,14 @@ Place-based policies are closely related to industrial development. They are a l
 
     - Kline, P., & Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. The Quarterly Journal of Economics, 129(1), 275–331. https://doi.org/doi.org/10.1093/qje/qjt034
     
+    - Ehrlich, M. v., & Seidel, T. (2018). The Persistent Effects of Place-Based Policy: Evidence from the West-German Zonenrandgebiet. American Economic Journal: Economic Policy, 10(4), 344–374. https://doi.org/10.1257/pol.20160395
+    
+    
 - Bartik vs. Neumark. 
 
-  
+    - Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
+
+    - Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
 
 - Place-based industrial subsidies in the UK and EU.
 
@@ -246,24 +251,27 @@ Place-based policies are closely related to industrial development. They are a l
     
     - Becker, S., Egger, P., & Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. http://www.sciencedirect.com/science/article/pii/S004727271000071X
     
+    - Becker, S. O., Egger, P. H., & von Ehrlich, M. (2018). Effects of EU Regional Policy: 1989-2013. Regional Science and Urban Economics, 69, 143–152. https://doi.org/https://doi.org/10.1016/j.regsciurbeco.2017.12.001
+    
+    
 
 ### Part 3 - Industrial Networks.
 Networks get a little more complicated. Especially when we consider them in general equilibrium models, or in quantitative detail. This section is about taking some deep dives into linkage topics.
 
-- Ernest Liu's network model. 
-- General equilibrium and I-O models.
-- Crowding out and general equilibrium effects of subsidies. 
+- Liu, E. (2019). Industrial Policies in Production Networks. Quarterly Journal of Economics, Forthcoming.
+
+- Rotemberg, M. (2019). Equilibrium Effects of Firm Subsidies. American Economic Review, 109(10), 3475–3513. https://doi.org/10.1257/aer.20171840
+
 
 ### Part 4 - Export-Promotion and Empirics.
 Topics on export policy and promotion.
 
-      - Munch, J., & Schaur, G. (2018). The Effect of Export Promotion on Firm-Level Performance. American Economic Journal: Economic Policy, 10(1), 357–387. http://www.aeaweb.org/articles?id=10.1257/pol.20150410
+- Munch, J., & Schaur, G. (2018). The Effect of Export Promotion on Firm-Level Performance. American Economic Journal: Economic Policy, 10(1), 357–387. http://www.aeaweb.org/articles?id=10.1257/pol.20150410
       
-      - Freund, C., & Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
+- Freund, C., & Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
       
-      - Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and Plant-Level Efficiency Gains: It’s in the Measure. Journal of Political Economy, 127(4), 1777–1825.
-      - Harding, T., & Javorcik, B. S. (2011). Foreign Direct Investment and Export Upgrading. The Review of Economics and Statistics, 94(4), 964–980. https://doi.org/10.1162/REST_a_00226
-      
-      - Lederman, D., Olarreaga, M., & Payton, L. (2010). Export promotion agencies: Do they work? Journal of Development Economics, 91(2), 257–265. https://doi.org/https://doi.org/10.1016/j.jdeveco.2009.09.003
+- Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and Plant-Level Efficiency Gains: It’s in the Measure. Journal of Political Economy, 127(4), 1777–1825.
 
-      - Atkin, D., Khandelwal, A. K., & Osman, A. (2017). Exporting and Firm Performance: Evidence from a Randomized Experiment. The Quarterly Journal of Economics, 132(2), 551–615. http://dx.doi.org/10.1093/qje/qjx002
+- Harding, T., & Javorcik, B. S. (2011). Foreign Direct Investment and Export Upgrading. The Review of Economics and Statistics, 94(4), 964–980. https://doi.org/10.1162/REST_a_00226
+      
+- Atkin, D., Khandelwal, A. K., & Osman, A. (2017). Exporting and Firm Performance: Evidence from a Randomized Experiment. The Quarterly Journal of Economics, 132(2), 551–615. http://dx.doi.org/10.1093/qje/qjx002
