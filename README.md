@@ -4,7 +4,7 @@
 This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module.
 
 
-# Module Syllabus 
+# Module Syllabus Home
 {: .no_toc }
 
 University of Oxford's Economic Development MSc. Hilary Term, 2021.  
