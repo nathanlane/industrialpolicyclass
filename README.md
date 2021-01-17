@@ -132,7 +132,6 @@ Introduction to industrial policy as a concept--and the controversies surroundin
   - Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl_1.19
   - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
   - Greenwald, B. C., & Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
-  - Greenwald, B., & Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
 
 
 - _Associated 1 one-hour lecture: The economy of industrial policy and controversies._  
@@ -160,11 +159,8 @@ In this section we get more precise about a set of key externalities underlying 
 
 - Further Readings.
 
-  - David, P. A. (1970). Learning By Doing and Tariff Protection: A Reconsideration of the Case of the Ante-Bellum United States Cotton Textile Industry. The Journal of Economic History, 30(3), 521–601. https://doi.org/DOI: 10.1017/S002205070008623X
-  - Thompson, P. (2010). Chapter 10 - Learning by Doing. In B. H. Hall & N. B. T.-H. of the E. of I. Rosenberg (Eds.), Handbook of The Economics of Innovation, Vol. 1 (Vol. 1, pp. 429–476). North-Holland. https://doi.org/https://doi.org/10.1016/S0169-7218(10)01010-5
+  - Thompson, P. (2010). Chapter 10 - Learning by Doing. In B. H. Hall & I. Rosenberg (Eds.), Handbook of The Economics of Innovation, Vol. 1 (Vol. 1, pp. 429–476). North-Holland. https://doi.org/https://doi.org/10.1016/S0169-7218(10)01010-5
   - Young, A. (1991). Learning by Doing and the Dynamic Effects of International Trade. The Quarterly Journal of Economics, 106(2), 369–405. http://dx.doi.org/10.2307/2937942
-  - Arkolakis, C., Papageorgiou, T., & Timoshenko, O. A. (2018). Firm learning and growth. Review of Economic Dynamics, 27, 146–168. https://doi.org/https://doi.org/10.1016/j.red.2017.06.001
-  - Williamson, J. G. (1972). Embodiment, Disembodiment, Learning by Doing, and Returns to Scale in Nineteenth-Century Cotton Textiles. The Journal of Economic History, 32(3), 691–705. https://doi.org/DOI: 10.1017/S0022050700077196
 
 
 - _Associated 1 one-hour lecture: Place-Based industrial policy and empirics._  
@@ -205,12 +201,13 @@ Industrial development and trade have a long history. They're innately intertwin
      - Nunn, N., & Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
      - Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
 
-- Further Readings.  
+- Further Readings. 
+    - Atkin, D., Donaldson, D., Rasul, I., Teachout, M., Verhoogen, E., & Woodruff, C. (2019). Firms, trade, and productivity (IGC Evidence Paper, Issue December).
     - Freund, C., & Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
-    - O’Rourke, K. H. (2000). Tariffs and Growth in the Late 19th Century. The Economic Journal, 110(463), 456–483. http://www.jstor.org/stable/2566243
     - Harris, R., Keay, I., & Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
     - Alexander, P. D., & Keay, I. (2018). A general equilibrium analysis of Canada’s national policy. Explorations in Economic History, 68, 1–15. https://doi.org/https://doi.org/10.1016/j.eeh.2017.11.002
-    
+     - Greenwald, B., & Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
+
 
 - _Associated Tutorial Lecture 4: Export-Oriented Policy and Empirics._
 
@@ -221,32 +218,29 @@ Industrial development and trade have a long history. They're innately intertwin
 ## Schedule of Tutorial Lectures.
 Readings to be provided.
 
-### Week 1 - Political Economy of Industrial Policy and Controversies
+### Part 1 - Political Economy of Industrial Policy and Controversies
 - Government Failures and Rent-Seeking
 - Information and Political Economy.
-- Justin Lin vs. HJ Chang.
 
-### Week 2 - Place-Based Industrial Policy and Empirics.
+### Part 2 - Place-Based Industrial Policy and Empirics.
 Place-based policies are closely related to industrial development. They are a lot like industrial policy _writ large_, but also represent some of their own challenges.
 
 - Empirical issues, crowding out, and spillovers.
 - Bartik vs. Neumark.
 - Place-based industrial subsidies in the UK and EU.
 
-
-### Week 3 - Industrial Networks.
-Networks get a little more complicated. Especially when we consider them in general equilibrium models. This section is about taking some deep dives into 
+### Part 3 - Industrial Networks.
+Networks get a little more complicated. Especially when we consider them in general equilibrium models, or in quantitative detail. This section is about taking some deep dives into linkage topics.
 
 - Ernest Liu's network model. 
-- General equilibrium and IO models.
+- General equilibrium and I-O models.
 - Crowding out and general equilibrium effects of subsidies. 
-- R&D and Networks. 
 
-### Week 4 - Export-Promotion and Empirics.
+### Part 4 - Export-Promotion and Empirics.
 There has been a ton of work on export-oriented policies. While trade policies have.
 
-- Policy and Changing Comparative Advantage.
+- Policy and changing Comparative advantage.
 - Exporting and quality upgrading.
 - Economic complexity and export performance.
-- Export promotion: Lessons and empirics. 
+- Randomized evidence on export performance.
 
