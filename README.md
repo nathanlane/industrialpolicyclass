@@ -219,15 +219,22 @@ Industrial development and trade have a long history. They're innately intertwin
 Below are topics to draw from and their associated readings for presentation. Each topic is empirical, though theoretical topics and presentations are provided.
 
 
-### Part 1 - Political Economy of Industrial Policy and Controversies
+### Part 1 - Political Economy of Industrial Policy and Controversies.
+
 - Government failures and rent-seeking.
 
-- Information and political economy.
-      - Maloney, W. F., & Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
-      
-- History and evolving evidence.
+    - Krueger, A. O. (1990). Government Failures in Development. The Journal of Economic Perspectives, 4(3), 9–23.
+    
+    - Krueger, A. O. (1974). The Political Economy of the Rent-Seeking Society. The American Economic Review, 64(3), 291–303. http://www.jstor.org/stable/1808883
+
+- Political economy of the state and industrial policy.
+
+    - Evans, P. B. (1992). The State as Problem and Solution: Predation, Embedded Autonomy, and Structural Change. In S. Haggard & Robert R. Kaufman (Eds.), The Politics of Economic Adjustment: International Constraints, Distributive Conflicts and the State (pp. 139–181). Princeton University Press.
     
     - Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
+    
+    - Maloney, W. F., & Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
+
 
 ### Part 2 - Place-Based Industrial Policy and Empirics.
 Place-based policies are closely related to industrial development. They are a lot like industrial policy _writ large_, but also represent some of their own challenges.
