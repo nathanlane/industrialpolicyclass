@@ -14,7 +14,7 @@ University of Oxford's Economic Development MSc. Hilary Term, 2021.
 Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
 
-
+*********
 
 ## Syllabus - Table of Contents
 {: .no_toc .text-delta }
@@ -22,8 +22,6 @@ The live webpage will live on Canvas and [http://nathanlane.info/industrialpolic
 1. TOC
 {:toc}
 
-
-*********
 
 ## Industrial Policy and Development Introduction
 
