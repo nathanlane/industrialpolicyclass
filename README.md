@@ -33,7 +33,7 @@ This class will focus on practice and evidence. While this classe will cover the
 
 The objectives of this course is to understand core concepts around the industrial promotion and their relationship to developing economies. This a short course, and thus not exhaustive. With this in mind, my goal is to clarify concepts and issues at the heart of this literature and concept. Some of these objectives include understanding,
 
-- Horizontal vs. verticle targeting and policies.
+- Horizontal vs. vertical targeting and policies.
 - Industrial policy levers - including subsidies, tariffs, quotas.
 - Static versus dynamic comparative advantage and welfare concepts.
 - Frictions and external economy arguments of behind interventions.
