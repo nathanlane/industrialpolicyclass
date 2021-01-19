@@ -175,6 +175,7 @@ In this section we get more precise about a set of key externalities underlying 
 
 - Suggested Readings. 
     - Martin Rotemberg's [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
+    - Grassi, B., & Sauvagnat, J. (2019). Production networks and economic policy. Oxford Review of Economic Policy, 35(4), 638–677. https://doi.org/10.1093/oxrep/grz021
     - Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The  American Economic Review, 94(3), 605–627.
     - Rodríguez-Clare, A. (2007). Clusters and comparative advantage: Implications for industrial policy. Journal of Development Economics, 82(1), 43–57. https://doi.org/https://doi.org/10.1016/j.jdeveco.2005.09.001    
     - Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
