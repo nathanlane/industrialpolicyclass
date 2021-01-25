@@ -58,7 +58,7 @@ This module is for the Development Economics MSc., and will take place the secon
 - Week 8 - Main lecture 3 -  Friday, 11:15 AM - 1:15 PM 
 - Week 9 - Short Lecture 3 - Thurday, 3:30 PM - 4:30 PM
 - Week 9 - Main lecture 4 -  Friday, 11:15 AM - 1:15 PM 
-- Week 9 - Short lecture 4 - Saturday, 12:00 Noon - 1:00 PM
+- Week 9 or 10 - Short lecture 4 - TBA
 
 I will also schedule some revision sessions in Trinity Term for students who might want to talk through particular sample essay topics to prepare for exams. These will are TBD. Watch this space.
 
@@ -80,15 +80,18 @@ The contents of these blocks may change slightly, as this is a new class. So ple
 
 ## Office Hours, Communication, & Advising.
 
-__E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). I do my best to answer e-mails promptly, but if for some reason you do not get a response, just nudge me. Especially with remote teaching, it's (sadly) not uncommon for things to fall through the cracks.
+__E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). 
 
-__Office Hours__  -  I will hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Just come by and knock. If I am with another student, you may have to wait momentarily. Offce hours are intended for relatively short questions and interactions. For extended discussions, please email me for an appointment. 
+I do my best to answer e-mails quickly. If for some reason you do not get a response, just nudge me. Especially with remote teaching, it's not uncommon for things to fall through the cracks.
 
-For convenience, office hours will be held at my Merton College office (_Fellows Quad, Staircase 4, Room 4.8_), around the corner from the Exam School lectures. I figure this is easier and more accessible than my office in the economics department. My college office is located on the Merton College grounds, Staircase 4, Office 4.8. _Given the UK government is radically determined to keep the pandemic burning, it may be that office hours will just be Zoom hours_, in which case these issues are moot. I will post the Zoom link accordingly here and on Canvas.
+__Office Hours__  -  I usually hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Where these would usually happen in my Merton College office, I will schedule regular Zoom drop-in sessions for this. 
+
+You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
+
 
 ### Office Hours Hilary Term
 
-Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
+Location: now to be held on Zoom or MS Teams.
 
 - Week 6 - Thursday, 5:00 PM - 6:00 PM 
 - Week 7 - Thursday, 5:00 PM - 6:00 PM 
@@ -98,7 +101,9 @@ Location:  Merton College, Office 4.8, Fellows Quad, Staircase 4.
 *********
 
 ## Schedule of Main Lectures.
-Main lectures are two-hour lectures. They are usually broken into two talks. Please note that the lectures may cover additional papers and omit some of these. Each lecture will have its own list of references. If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set.
+Tbhe main class each week will be a two-hour lectures. The main talks will usually broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will give at the end of each set of lectures. 
+
+If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set. I will try to post slides and/or notes after the lectures. 
 
 ### Readings 
 Readings are broken down by those required for the command of lecture material. Lectures will draw heavily from required readings. Followed by those that are great follow ups for enrichment. Further readings are for those who want to get into the weeds of a topic. 
