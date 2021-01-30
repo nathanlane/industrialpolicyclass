@@ -8,11 +8,21 @@ Oh gosh, hello. This is a course webpage, along with the Canvas page, for Dr. Na
 # Module Syllabus Home
 {: .no_toc }
 
-University of Oxford's Economic Development MSc. Hilary Term, 2021.  
+University of Oxford's Economic Development MSc. Hilary Term, 2021. 
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
 
 Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
+
+_Lectures_
+Fridays, 3.00–5.00pm (GMT) 
+Online MScED Zoom Room 
+ 
+_Classes_ 
+Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) 
+Saturday, 10.30–11.30 (GMT) (Week 8 only) 
+Online MScED Zoom Room 
+
 
 *********
 
@@ -29,42 +39,43 @@ This module is about industrial policy and industrial development. More precisel
 
 This class will focus on practice and evidence. While this classe will cover the theoretical arguments behind industrial policy, we will nevertheless focus on attempts to empirically examine industrial policy. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However none of these are necessary.
 
+
 ### Objectives
 
-The objectives of this course is to understand core concepts around the industrial promotion and their relationship to developing economies. This a short course, and thus not exhaustive. With this in mind, my goal is to clarify concepts and issues at the heart of this literature and concept. Some of these objectives include understanding,
+The objectives of this course is to understand core concepts around industrial promotion policies relationship to developing economies. This course is new and short, and thus not exhaustive. The goal is to give broad conceptual clarity and review issues at the heart of this literature. Some of the objectives include understanding
 
-- Horizontal vs. vertical targeting and policies.
-- Industrial policy levers - including subsidies, tariffs, quotas.
-- Static versus dynamic comparative advantage and welfare concepts.
-- Frictions and external economy arguments of behind interventions.
-- Political economy and government failures and critiques of policy.
-- Trade policy and its relationship to industrial policy. 
-- The role of trade and industrial development outcomes.
-- Input-output linkages and economies of scale concepts.
+- horizontal vs. vertical targeting and policies.
+- industrial policy levers - including subsidies, tariffs, quotas.
+- static versus dynamic comparative advantage and welfare concepts.
+- frictions and external economy arguments of behind interventions.
+- political economy and government failures and critiques of policy.
+- trade policy and its relationship to industrial policy. 
+- the role of trade and industrial development outcomes.
+- input-output linkages and economies of scale concepts.
 
 
 *********
 
 ## Schedule and Structure 
 
-### Timeline
+This module is for the Development Economics MSc. and will take place the second half of Oxford's Hilary term (weeks 6-8). 
 
-This module is for the Development Economics MSc., and will take place the second half of Oxford's Hilary term. The meeting times are as follows. Of course, the world is crumbling right now, so this will be changed and updated in the coming weeks:
+The meeting times are as follows (in the Online MScED Zoom Room)
 
-- Week 6 - Main lecture 1 - Friday, 11:15 AM - 1:15 PM 
-- Week 7 - Short Lecture 1 - Thurday, 3:30 PM - 4:30 PM
-- Week 7 - Main lecture 2 -  Friday, 11:15 AM - 1:15 PM 
-- Week 8 - Short Lecture 2 - Thurday, 3:30 PM - 4:30 PM
-- Week 8 - Main lecture 3 -  Friday, 11:15 AM - 1:15 PM 
-- Week 9 - Short Lecture 3 - Thurday, 3:30 PM - 4:30 PM
-- Week 9 - Main lecture 4 -  Friday, 11:15 AM - 1:15 PM 
-- Week 9 or 10 - Short lecture 4 - TBA
+- Week 5 - Lecture 1 - Friday, 3.00–5.00pm (GMT) 
+- Week 6 - Class 1 - Thurday, 3.30–4.30pm (GMT) 
+- Week 6 - Lecture 2 -  Friday, 3.00–5.00pm (GMT) 
+- Week 8 - Class 2 - Thurday, 3.30–4.30pm (GMT) 
+- Week 8 - Lecture 3 -  Friday, 3.00–5.00pm (GMT)  
+- Week 9 - Class 3 - Thurday, 3.30–4.30pm (GMT) 
+- Week 9 - Lecture 4 -  Friday, 3.00–5.00pm (GMT) 
+- Week 8 - Class 4 - __Saturday__, 10.30am–11.30am (GMT) _(Week 8 only)_ 
 
-I will also schedule some revision sessions in Trinity Term for students who might want to talk through particular sample essay topics to prepare for exams. These will are TBD. Watch this space.
+I will also schedule revision sessions in Trinity Term for students who might want to talk through particular sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
 
-### Structure and Organization  
+## Structure and Organization  
 
-The module is composed of four blocks. Each block has a theme, which I cover in 1) the main two-hour lecture (_"main lecture"_) and 2) a supplementary one-hour class (_"short lecture"_).  
+The module is composed of four blocks. Each block has a theme, which I cover in 1) the main two-hour lecture and 2) a supplementary one-hour class 
 
 - __Block 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
 
@@ -84,24 +95,19 @@ __E-Mail__ - It always helps to refer to the module in the header of your mail (
 
 I do my best to answer e-mails quickly. If for some reason you do not get a response, just nudge me. Especially with remote teaching, it's not uncommon for things to fall through the cracks.
 
-__Office Hours__  -  I usually hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. Where these would usually happen in my Merton College office, I will schedule regular Zoom drop-in sessions for this. 
+__Office Hours__  -  I usually hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. I will provide a link to the Zoom office hours room for this. 
 
 You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
 
-
-### Office Hours Hilary Term
-
-Location: now to be held on Zoom or MS Teams.
-
-- Week 6 - Thursday, 5:00 PM - 6:00 PM 
-- Week 7 - Thursday, 5:00 PM - 6:00 PM 
-- Week 8 - Thursday, 5:00 PM - 6:00 PM 
-- Week 9 - Thursday, 5:00 PM - 6:00 PM 
+- Week 6 - Thursday, 5:30 PM - 6:00 PM 
+- Week 7 - Thursday, 5:30 PM - 6:00 PM 
+- Week 8 - Thursday, 5:30 PM - 6:00 PM 
+- Week 9 - Thursday, 5:30 PM - 6:00 PM 
 
 *********
 
 ## Schedule of Main Lectures.
-Tbhe main class each week will be a two-hour lectures. The main talks will usually broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will give at the end of each set of lectures. 
+The main class each week will consist of a two-hour lecture. Lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will give at the end of each set of lectures. 
 
 If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set. I will try to post slides and/or notes after the lectures. 
 
