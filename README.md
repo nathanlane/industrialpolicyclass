@@ -14,14 +14,9 @@ University of Oxford's Economic Development MSc. Hilary Term, 2021.
 Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
 
-_Lectures_
-Fridays, 3.00–5.00pm (GMT) 
-Online MScED Zoom Room 
+_Lectures_ - Fridays, 3.00–5.00pm (GMT) - Online MScED Zoom Room 
  
-_Classes_ 
-Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) 
-Saturday, 10.30–11.30 (GMT) (Week 8 only) 
-Online MScED Zoom Room 
+_Classes_ - Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) and Saturday, 10.30–11.30 (GMT) (Week 8 only) - Online MScED Zoom Room 
 
 
 *********
@@ -33,16 +28,16 @@ Online MScED Zoom Room
 {:toc}
 
 
-## Industrial Policy and Development Introduction
+## Industrial Policy Introduction
 
-This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, in practice, stymie) the evolution of industry, and shape the composition of economic activity within a national economy. In doing so we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
+This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, historically, stymie) the evolution of industry, and shape the composition of economic activity. In doing so we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
-This class will focus on practice and evidence. While this classe will cover the theoretical arguments behind industrial policy, we will nevertheless focus on attempts to empirically examine industrial policy. The goal is to consider how scholars, practitioners, and policymakers might evaluate the efficacy of the policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module. Trade may be a good one too. However none of these are necessary.
+This class will focus on practice and evidence. While this class covers theoretical arguments behind industrial policy, the focus will be on empirics. More precisely, how scholars, practitioners, and policymakers might evaluate the efficacy of these policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module and complements Christian Meyer's labour and firms module. However, none of these are necessary.
 
 
 ### Objectives
 
-The objectives of this course is to understand core concepts around industrial promotion policies relationship to developing economies. This course is new and short, and thus not exhaustive. The goal is to give broad conceptual clarity and review issues at the heart of this literature. Some of the objectives include understanding
+The objective of this course is to understand core concepts around industrial promotion policies in developing economies. This course is new and short, and thus not exhaustive. With this in mind, the goal is to provide broad, conceptual clarity and review issues at the heart of this literature. Some of the objectives include understanding
 
 - horizontal vs. vertical targeting and policies.
 - industrial policy levers - including subsidies, tariffs, quotas.
@@ -58,9 +53,9 @@ The objectives of this course is to understand core concepts around industrial p
 
 ## Schedule and Structure 
 
-This module is for the Development Economics MSc. and will take place the second half of Oxford's Hilary term (weeks 6-8). 
+This module is for the Development Economics MSc. and will take place the second half of Oxford's Hilary term (weeks 5-8). Lectures and classes are held in the _Online MScED Zoom Room_.
 
-The meeting times are as follows (in the Online MScED Zoom Room)
+The meeting times are as follows,
 
 - Week 5 - Lecture 1 - Friday, 3.00–5.00pm (GMT) 
 - Week 6 - Class 1 - Thurday, 3.30–4.30pm (GMT) 
@@ -71,11 +66,11 @@ The meeting times are as follows (in the Online MScED Zoom Room)
 - Week 9 - Lecture 4 -  Friday, 3.00–5.00pm (GMT) 
 - Week 8 - Class 4 - __Saturday__, 10.30am–11.30am (GMT) _(Week 8 only)_ 
 
-I will also schedule revision sessions in Trinity Term for students who might want to talk through particular sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
+I will also schedule revision sessions in Trinity Term for students who wish to talk through sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
 
 ## Structure and Organization  
 
-The module is composed of four blocks. Each block has a theme, which I cover in 1) the main two-hour lecture and 2) a supplementary one-hour class 
+The module is composed of four blocks. Each block has a theme. Main topics are covered in the main two-hour lecture; and the supplementary one-hour class will delve more in-depth into a topic.
 
 - __Block 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
 
@@ -85,7 +80,7 @@ The module is composed of four blocks. Each block has a theme, which I cover in 
 
 - __Block 4:__ Network externalities, linkages, and clusters. 
 
-The contents of these blocks may change slightly, as this is a new class. So please keep an eye on the "living" syllabus on this page. I will try to update you on substantive changes as they arise. 
+The contents of these blocks may change slightly, as this is a new class. So keep an eye on this live syllabus. I will announce substantive changes as they arise. 
 
 *********
 
@@ -106,8 +101,8 @@ You can also schedule individual Zoom meetings with me for more extensive discus
 
 *********
 
-## Schedule of Main Lectures.
-The main class each week will consist of a two-hour lecture. Lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will give at the end of each set of lectures. 
+## Schedule of Main Lectures   
+The main class each week will consist of a two-hour lecture. Lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will provide at the end of lecture slides.
 
 If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set. I will try to post slides and/or notes after the lectures. 
 
@@ -144,7 +139,7 @@ Introduction to industrial policy as a concept--and the controversies surroundin
   - Greenwald, B. C., & Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
 
 
-- _Associated 1 one-hour lecture: The economy of industrial policy and controversies._  
+- _Associated 1 one-hour lecture: The political economy of industrial policy._  
 
 
 ### Part 2 - Externalities - Infant Industries, Learning-by-Doing, and Scale Economies. 
