@@ -1,7 +1,7 @@
 # Industrial Policy Class
 {: .no_toc}
 
-Oh gosh, hello. This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module. Please find the detailed sylabus below. Other content to be posted as the term evolves.
+This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module. Please find the detailed sylabus below. Other content to be posted as the term evolves.
 
 *********
 
