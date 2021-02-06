@@ -30,14 +30,16 @@ _Classes_ - Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) and Saturday, 10.30–1
 
 ## Industrial Policy Introduction
 
-This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, historically, stymie) the evolution of industry, and shape the composition of economic activity. In doing so we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
+This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, historically, stymie) the evolution of industry, and shape the composition of economic activity. In doing so, we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
 This class will focus on practice and evidence. While this class covers theoretical arguments behind industrial policy, the focus will be on empirics. More precisely, how scholars, practitioners, and policymakers might evaluate the efficacy of these policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module and complements Christian Meyer's labour and firms module. However, none of these are necessary.
 
 
 ### Objectives
 
-The objective of this course is to understand core concepts around industrial promotion policies in developing economies. This course is new and short, and thus not exhaustive. With this in mind, the goal is to provide broad, conceptual clarity and review issues at the heart of this literature. Some of the objectives include understanding
+The objective of this course is to understand core concepts around industrial promotion policies in developing economies. This module is new. And it is also short. Thus, it is not exhaustive. Accordingly, the goal is to provide broad, conceptual clarity of main ideas and to review issues at the heart of this literature. 
+
+Some of the objectives include understanding
 
 - horizontal vs. vertical targeting and policies.
 - industrial policy levers - including subsidies, tariffs, quotas.
@@ -51,7 +53,9 @@ The objective of this course is to understand core concepts around industrial pr
 
 *********
 
-## Schedule and Structure 
+## Schedule and Structure
+
+**Lecture and Class Schedule**
 
 This module is for the Development Economics MSc. and will take place the second half of Oxford's Hilary term (weeks 5-8). Lectures and classes are held in the _Online MScED Zoom Room_.
 
@@ -68,19 +72,19 @@ The meeting times are as follows,
 
 I will also schedule revision sessions in Trinity Term for students who wish to talk through sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
 
-## Structure and Organization  
+**Organisation**
 
-The module is composed of four blocks. Each block has a theme. Main topics are covered in the main two-hour lecture; and the supplementary one-hour class will delve more in-depth into a topic.
+This module is composed of four blocks, each with a distinct theme. Main topics are covered in the main two-hour lecture; and the supplementary one-hour class will delve more in-depth into a topic. From the Block 2 and onwards, students will have the opportunity to present papers in the one-hour extra classes.
 
-- __Week 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
+- __Block 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
 
-- __Week 2:__ Dynamic externalities and learning-by-doing. 
+- __Block 2:__ Dynamic externalities and learning-by-doing. 
 
-- __Week 3:__ Network externalities, linkages, and clusters. 
+- __Block 3:__ Network externalities, linkages, and clusters. 
 
-- __Week 4:__ The role of trade activity and trade policy as means of industrial development. 
+- __Block 4:__ The role of trade activity and trade policy as means of industrial development. 
 
-The contents of these blocks may change slightly, as this is a new class. So keep an eye on this live syllabus. I will announce substantive changes as they arise. 
+The contents of these blocks may change slightly. So keep an eye on this live syllabus. I will announce substantive changes as they arise. 
 
 *********
 
@@ -90,7 +94,7 @@ __E-Mail__ - It always helps to refer to the module in the header of your mail (
 
 I do my best to answer e-mails quickly. If for some reason you do not get a response, just nudge me. Especially with remote teaching, it's not uncommon for things to fall through the cracks.
 
-__Office Hours__  -  I usually hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. I will provide a link to the Zoom office hours room for this. 
+__Office Hours__  -  I will hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. I will provide a link to the Zoom office hours room for this. 
 
 You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
 
@@ -105,23 +109,16 @@ You can also schedule individual Zoom meetings with me for more extensive discus
 
 __The main lecture each week__ will consist of a two-hour session. These lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list.
 
-__The extra class__ follow each class, we'll dive into a topic deeper with a one-hour class. The one-hour class will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
+__The extra class__ following each main lecture, we will dive into a topic deeper with a one-hour class. The one-hour class will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers we cover. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
 
-Generally, if you track the required readings you will be set. If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
 
 ### Readings.
 
-Readings are broken down by those required for the command of lecture material. Lectures will draw heavily from required readings. Followed by those that are great follow ups for enrichment. Further readings are for those who want to get into the weeds of a topic.
+Readings are broken down by those required for the command of lecture material. Lectures will draw from _required readings_. As well, _suggested readings_ may also appear in lectures, but are not required. _Further readings_ are for those who want to get into the weeds of a topic.
 
-Industrial policy is an old idea. In a sense, these policies are as old as the institutions of capitalism. Nevetherless, as a subject of inquirty, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the following syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Don't be deceived by an older paper. It's punchline may still be worthwhile.
+Generally, if you track the required readings you will be set. If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
 
-Some of the papers you see may also seem unorthodox. Dare I see too "policy oriented." The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered. 
-
-Readings are broken down by those required for the command of lecture material. Lectures will draw heavily from required readings. Followed by those that are great follow ups for enrichment. Further readings are for those who want to get into the weeds of a topic.
-
-Industrial policy is an old idea. In a sense, these policies are as old as the institutions of capitalism. Nevertheless, as a subject of inquiry, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the following syllabus might look a little different than most. You&#39;ll see many old papers about theories, with a smattering of fairly recent empirical paper. Don&#39;t be deceived by an older paper. Its punchline may still be worthwhile.
-
-Some of the papers you see may also seem unorthodox. Dare I see too &quot;policy oriented.&quot; The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
+_A word on the readings:_ Industrial policy is an old idea. Nevertheless, as a subject of inquiry, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a bit different than most. You'll see many old papers about theories, along with fairly recent empirical work. Don't be deceived by an older paper. Its punchline may still be worthwhile (and untested).
 
 ### Part  1 - Concepts, Controversies, and the State
 
