@@ -72,13 +72,13 @@ I will also schedule revision sessions in Trinity Term for students who wish to 
 
 The module is composed of four blocks. Each block has a theme. Main topics are covered in the main two-hour lecture; and the supplementary one-hour class will delve more in-depth into a topic.
 
-- __Block 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
+- __Week 1:__ Introducing the ideas of industrial policy and its relationship to industrial development. 
 
-- __Block 2:__ Dynamic externalities and learning-by-doing. We'll explore the justifications for industrial development, revisiting the arguments for interventions.  
+- __Week 2:__ Dynamic externalities and learning-by-doing. 
 
-- __Block 3:__ The role of trade activity and trade policy as means of industrial development. How domestic industrial development interacts with global product markets. 
+- __Week 3:__ Network externalities, linkages, and clusters. 
 
-- __Block 4:__ Network externalities, linkages, and clusters. 
+- __Week 4:__ The role of trade activity and trade policy as means of industrial development. 
 
 The contents of these blocks may change slightly, as this is a new class. So keep an eye on this live syllabus. I will announce substantive changes as they arise. 
 
@@ -101,12 +101,16 @@ You can also schedule individual Zoom meetings with me for more extensive discus
 
 *********
 
-## Schedule of Main Lectures   
-The main class each week will consist of a two-hour lecture. Lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list. Each lecture will also have its own list of references, which I will provide at the end of lecture slides.
+## Lecture Topics and Schedule
 
-If you are in doubt about what reading to do, please ask me. If you track the required readings, you will be set. I will try to post slides and/or notes after the lectures. 
+__The main lecture each week__ will consist of a two-hour session. These lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list.
 
-### Readings 
+__The extra class__ follow each class, we'll dive into a topic deeper with a one-hour class. The one-hour class will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
+
+Generally, if you track the required readings you will be set. If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
+
+### Readings.
+
 Readings are broken down by those required for the command of lecture material. Lectures will draw heavily from required readings. Followed by those that are great follow ups for enrichment. Further readings are for those who want to get into the weeds of a topic.
 
 Industrial policy is an old idea. In a sense, these policies are as old as the institutions of capitalism. Nevetherless, as a subject of inquirty, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the following syllabus might look a little different than most. You'll see many old papers about theories, with a smattering of fairly recents empirical paper. Don't be deceived by an older paper. It's punchline may still be worthwhile.
@@ -119,7 +123,7 @@ Industrial policy is an old idea. In a sense, these policies are as old as the i
 
 Some of the papers you see may also seem unorthodox. Dare I see too &quot;policy oriented.&quot; The diversity of the reading list is a reflection of the state of the literature. In the context of industrialisation and industrial development, many of these ideas are just now starting to be considered.
 
-### Part  1 - Concepts, Controversies, and the State**
+### Part  1 - Concepts, Controversies, and the State
 
 **Lecture Readings**
 
@@ -147,7 +151,7 @@ _Further Readings._
 - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
 - Greenwald, B. C., &amp; Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
 
-**Asociated Class Readings** (Political Economy of Industrial Policy and Controversies)
+**Asociated Class Readings** (Political economy of industrial policy and controversies)
 
 Government failures and rent-seeking.
 
@@ -160,7 +164,7 @@ Political economy of the state and industrial policy.
 - Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
 - Maloney, W. F., &amp; Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
 
-### Part  2 - Dynamic externalities and learning-by-doing.**
+### Part  2 - Dynamic externalities and learning-by-doing.
 
 **Lecture Readings**
 
@@ -206,7 +210,7 @@ Place-based industrial subsidies in the UK and EU.
 - Becker, S., Egger, P., &amp; Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. http://www.sciencedirect.com/science/article/pii/S004727271000071X
 - Becker, S. O., Egger, P. H., &amp; von Ehrlich, M. (2018). Effects of EU Regional Policy: 1989-2013. Regional Science and Urban Economics, 69, 143–152. https://doi.org/https://doi.org/10.1016/j.regsciurbeco.2017.12.001
 
-### Part  3 - Externalities - Network Linkages, Clusters, and Foreign Direct Investment**
+### Part  3 - Externalities - Network Linkages, Clusters, and Foreign Direct Investment
 
 **Lecture Readings**
 
@@ -235,7 +239,7 @@ Networks get a little more complicated. Especially when we consider them in gene
 - Liu, E. (2019). Industrial Policies in Production Networks. Quarterly Journal of Economics, Forthcoming.
 - Rotemberg, M. (2019). Equilibrium Effects of Firm Subsidies. American Economic Review, 109(10), 3475–3513. https://doi.org/10.1257/aer.20171840
 
-### Part  4 - Trade - Protectionism, ISI, and Export-Led Industrial Development**
+### Part  4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
 
 **Lecture Readings**
 
