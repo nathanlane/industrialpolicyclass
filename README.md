@@ -8,11 +8,16 @@ This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's I
 # Module Syllabus Home
 {: .no_toc }
 
-University of Oxford's Economic Development MSc. Hilary Term, 2021. 
+University of Oxford's Economic Development MSc. Hilary Term, 2021.
+
+
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
 
+
 Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
-The live webpage will live on Canvas and [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info)/
+Check the Canvas module, but the core updates will be here, [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
+
+
 
 _Lectures_ - Fridays, 3.00–5.00pm (GMT) - Online MScED Zoom Room 
  
@@ -148,7 +153,7 @@ _Further Readings._
 - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
 - Greenwald, B. C., &amp; Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
 
-**Asociated Class Readings** (Political economy of industrial policy and controversies)
+**Associated Class Readings** (Political economy of industrial policy and controversies)
 
 Government failures and rent-seeking.
 
@@ -181,6 +186,8 @@ _Suggested Readings._
 - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
 - Levitt, S. D., List, J. A., &amp; Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
+- Also see Bartik versus Neumark:  Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
+- Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
 
 _Further Readings._
 
@@ -195,11 +202,6 @@ Empirical issues, crowding out, and spillovers.
 
 - Kline, P., &amp; Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. The Quarterly Journal of Economics, 129(1), 275–331. https://doi.org/doi.org/10.1093/qje/qjt034
 - Ehrlich, M. v., &amp; Seidel, T. (2018). The Persistent Effects of Place-Based Policy: Evidence from the West-German Zonenrandgebiet. American Economic Journal: Economic Policy, 10(4), 344–374. https://doi.org/10.1257/pol.20160395
-
-Bartik vs. Neumark.
-
-- Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
-- Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
 
 Place-based industrial subsidies in the UK and EU.
 
