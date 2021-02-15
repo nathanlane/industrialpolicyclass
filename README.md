@@ -11,18 +11,15 @@ This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's I
 University of Oxford's Economic Development MSc. Hilary Term, 2021.
 
 
-[Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk).
+[Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk). Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 
-
-Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
 Check the Canvas module, but the core updates will be here, [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
-
-
 
 _Lectures_ - Fridays, 3.00–5.00pm (GMT) - Online MScED Zoom Room 
  
 _Classes_ - Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) and Saturday, 10.30–11.30 (GMT) (Week 8 only) - Online MScED Zoom Room 
 
+_Teams Groups_ - Ongoing, On the Canvas course webpage I have posted the update for a Teams Group for the class. Use it to access the Teams group for this industrial policy class.  
 
 *********
 
@@ -119,17 +116,23 @@ __The extra class__ following each main lecture, we will dive into a topic deepe
 
 ### Readings.
 
-Readings are broken down by those required for the command of lecture material. Lectures will draw from _required readings_. As well, _suggested readings_ may also appear in lectures, but are not required. _Further readings_ are for those who want to get into the weeds of a topic.
+Readings are broken down by those required for the command of lecture material. 
 
-Generally, if you track the required readings you will be set. If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
+Lectures draw extensively from _required readings_. As well, _suggested readings_ can also appear in lectures, but you don't have to read those. 
+If you track the required readings you will be set.
+
+_Further readings_ are for those who want to get into the weeds of a topic.
+
+If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
 
 _A word on the readings:_ Industrial policy is an old idea. Nevertheless, as a subject of inquiry, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a bit different than most. You'll see many old papers about theories, along with fairly recent empirical work. Don't be deceived by an older paper. Its punchline may still be worthwhile (and untested).
+
 
 ### Part  1 - Concepts, Controversies, and the State
 
 **Lecture Readings**
 
-Introduction to industrial policy as a concept–and the controversies surrounding it. The goal of this class will be to organize the taxonomy of the justifications for (and against) these interventions. Specifically, the various market failures and imperfections that are justifications for these policies.
+Introduction to industrial policy as a concept–-and the controversies surrounding it. The goal of this class will be to organize the taxonomy of the justifications for (and against) these interventions. Specifically, the various market failures and imperfections that are justifications for these policies.
 
 _Required Readings._
 
