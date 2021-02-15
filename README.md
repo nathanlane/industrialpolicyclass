@@ -101,10 +101,10 @@ __Office Hours__  -  I will hold regular teaching office hours each week. You do
 
 You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
 
-- Week 6 - Thursday, 5:30 PM - 6:00 PM 
-- Week 7 - Thursday, 5:30 PM - 6:00 PM 
-- Week 8 - Thursday, 5:30 PM - 6:00 PM 
-- Week 9 - Thursday, 5:30 PM - 6:00 PM 
+- Week 6 - Thursday, 5:30 PM - 6:30 PM 
+- Week 7 - Thursday, 5:30 PM - 6:30 PM 
+- Week 8 - Thursday, 5:30 PM - 6:30 PM 
+- Week 9 - Thursday, 5:30 PM - 6:30 PM 
 
 *********
 
