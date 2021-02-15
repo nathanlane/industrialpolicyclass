@@ -31,7 +31,7 @@ _Teams Group for Module_ - Ongoing. On the Canvas course webpage I have posted t
 {:toc}
 
 
-## Industrial Policy Introduction
+## Industrial Policy Module Introduction
 
 This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, historically, stymie) the evolution of industry, and shape the composition of economic activity. In doing so, we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
@@ -115,7 +115,7 @@ __The main lecture each week__ will consist of a two-hour session. These lecture
 __The extra class__ following each main lecture, we will dive into a topic deeper with a one-hour class. The one-hour class will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers we cover. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
 
 
-### Readings.
+### Readings
 
 Readings are broken down by those required for the command of lecture material. 
 
@@ -200,6 +200,8 @@ _Further Readings._
 
 **Associated Class Readings** (Place-Based Industrial Policy and Empirics)
 
+*Scheduled Discussion Class*
+
 Place-based policies are closely related to industrial development. They are a lot like industrial policy writ large, but also represent some of their own challenges.
 
 Empirical issues, crowding out, and spillovers.
@@ -237,6 +239,8 @@ _Suggested Readings._
 
 **Associated Class Readings** (Industrial Networks)
 
+*Scheduled Discussion Class*
+
 Networks get a little more complicated. Especially when we consider them in general equilibrium models, or in quantitative detail. This section is about taking some deep dives into linkage topics.
 
 - Liu, E. (2019). Industrial Policies in Production Networks. Quarterly Journal of Economics, Forthcoming.
@@ -270,6 +274,8 @@ _Further Readings._
 - Greenwald, B., &amp; Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
 
 **Associated Class Readings** (Export-Promotion and Empirics)
+
+*Scheduled Discussion Class*
 
 Topics on export policy and promotion.
 
