@@ -62,15 +62,15 @@ Some of the objectives include understanding
 
 This module is for the Development Economics MSc. and will take place the second half of Oxford's Hilary term (weeks 5-8). Lectures and classes are held in the _Online MScED Zoom Room_.
 
-The meeting times are as follows,
+The meeting times,
 
 - Week 5 - Lecture 1 - Friday, 3.00–5.00pm (GMT) 
 - Week 6 - Class 1 - Thurday, 3.30–4.30pm (GMT) 
 - Week 6 - Lecture 2 -  Friday, 3.00–5.00pm (GMT) 
-- Week 8 - Class 2 - Thurday, 3.30–4.30pm (GMT) 
-- Week 8 - Lecture 3 -  Friday, 3.00–5.00pm (GMT)  
-- Week 9 - Class 3 - Thurday, 3.30–4.30pm (GMT) 
-- Week 9 - Lecture 4 -  Friday, 3.00–5.00pm (GMT) 
+- Week 7 - Class 2 - Thurday, 3.30–4.30pm (GMT) 
+- Week 7 - Lecture 3 -  Friday, 3.00–5.00pm (GMT)  
+- Week 8 - Class 3 - Thurday, 3.30–4.30pm (GMT) 
+- Week 8 - Lecture 4 -  Friday, 3.00–5.00pm (GMT) 
 - Week 8 - Class 4 - __Saturday__, 10.30am–11.30am (GMT) _(Week 8 only)_ 
 
 I will also schedule revision sessions in Trinity Term for students who wish to talk through sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
