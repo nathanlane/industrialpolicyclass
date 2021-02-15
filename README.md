@@ -3,6 +3,9 @@
 
 This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module. Please find the detailed sylabus below. Other content to be posted as the term evolves.
 
+Announcements will be posted on the class Teams and Canvas. This page will have the class context and lecture details as the class evolves: [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
+
+
 *********
 
 # Module Syllabus Home
@@ -10,16 +13,14 @@ This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's I
 
 University of Oxford's Economic Development MSc. Hilary Term, 2021.
 
-
 [Dr. Nathan Lane](http://nathanlane.info), A/Prof. Oxford, Fellow [Merton College](https://www.merton.ox.ac.uk). Email me at [nathaniel.lane@economics.ox.ac.uk](nathaniel.lane@economics.ox.ac.uk).
-
-Check the Canvas module, but the core updates will be here, [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
 
 _Lectures_ - Fridays, 3.00–5.00pm (GMT) - Online MScED Zoom Room 
  
 _Classes_ - Thursdays, 3.30–4.30pm (GMT) (Weeks 6–8) and Saturday, 10.30–11.30 (GMT) (Week 8 only) - Online MScED Zoom Room 
 
-_Teams Groups_ - Ongoing, On the Canvas course webpage I have posted the update for a Teams Group for the class. Use it to access the Teams group for this industrial policy class.  
+_Teams Group for Module_ - Ongoing. On the Canvas course webpage I have posted the update for a Teams Group for the class. Use it to access the Teams group for this industrial policy class.  
+
 
 *********
 
