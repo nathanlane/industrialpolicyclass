@@ -1,9 +1,9 @@
 # Industrial Policy Class
 {: .no_toc}
 
-This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module. Please find the detailed sylabus below. Other content to be posted as the term evolves.
+This is a course webpage, along with the Canvas page, for Dr. Nathaniel Lane's Industrial Policy and Development module. Please find the detailed sylabus below. Other content to be posted as the term evolves. 
 
-Announcements will be posted on the class Teams and Canvas. This page will have the class context and lecture details as the class evolves: [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
+Announcements will be posted on the class Teams and Canvas, and change on here as the class evolves. This page will provide details of class lectures: [http://nathanlane.info/industrialpolicyclass](http://nathanlane.info/industrialpolicyclass).
 
 
 *********
@@ -93,18 +93,18 @@ The contents of these blocks may change slightly. So keep an eye on this live sy
 
 ## Office Hours, Communication, & Advising.
 
-__E-Mail__ - It always helps to refer to the module in the header of your mail (__"Industrial Policy Class..."__). 
+__E-Mail__ - It always helps to refer to the module name in the header of your mail (__"Industrial Policy Class..."__). 
 
-I do my best to answer e-mails quickly. If for some reason you do not get a response, just nudge me. Especially with remote teaching, it's not uncommon for things to fall through the cracks.
+I do my best to answer e-mails quickly. If for some reason you do not get a response, just nudge me. Especially with remote teaching, things can fall through the cracks. You can also reach out to me of the Teams Group as well. 
 
 __Office Hours__  -  I will hold regular teaching office hours each week. You do not need an appointment to see me during offce hours. I will provide a link to the Zoom office hours room for this. 
-
-You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
 
 - Week 6 - Thursday, 5:30 PM - 6:30 PM 
 - Week 7 - Thursday, 5:30 PM - 6:30 PM 
 - Week 8 - Thursday, 5:30 PM - 6:30 PM 
 - Week 9 - Thursday, 5:30 PM - 6:30 PM 
+
+You can also schedule individual Zoom meetings with me for more extensive discussions. Just email me.
 
 *********
 
@@ -112,21 +112,24 @@ You can also schedule individual Zoom meetings with me for more extensive discus
 
 __The main lecture each week__ will consist of a two-hour session. These lectures will usually be broken into two topics or so. Please note that the lectures may cover additional papers and omit some of those on the list.
 
-__The extra class__ following each main lecture, we will dive into a topic deeper with a one-hour class. The one-hour class will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers we cover. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
+__The extra class__ following each main lecture, we will dive into a topic deeper with a one-hour class. 
+
+- Classes for Weeks 5 and 6 will be discussion based.
+
+- Classes Week 7, 8 (Thurs.), and 8 (Sat.), you there are presentation slots available. These classes will be a chance for you to also book a twenty-minute summary and discussion of one of the topic papers we cover. Choose any you like. Or if you find one that is related and cool, let me know, and we can have you present it.
 
 
 ### Readings
 
-Readings are broken down by those required for the command of lecture material. 
+Readings are broken down by those required for the command of lecture material, and the other stuff. 
 
-Lectures draw extensively from _required readings_. As well, _suggested readings_ can also appear in lectures, but you don't have to read those. 
-If you track the required readings you will be set.
+Don't panic about seeing a lot of class material. Much of it is for you own reading and review. We're scholars, so we're pedantic. 
 
-_Further readings_ are for those who want to get into the weeds of a topic.
+Lectures draw extensively from _required readings_. _Suggested readings_ can also appear in lectures, but you don't have to read those. If you track the required readings you will be set.
+
+_Further readings_ are for those who want to get into the weeds of a topic. Or if you want to troll my knowledge in class. 
 
 If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
-
-_A word on the readings:_ Industrial policy is an old idea. Nevertheless, as a subject of inquiry, industrial development and industrial policy has waxed and waned in popularity. With this in mind, the syllabus might look a bit different than most. You'll see many old papers about theories, along with fairly recent empirical work. Don't be deceived by an older paper. Its punchline may still be worthwhile (and untested).
 
 
 ### Part  1 - Concepts, Controversies, and the State
