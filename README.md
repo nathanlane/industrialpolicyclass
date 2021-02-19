@@ -141,37 +141,38 @@ Introduction to industrial policy as a concept–-and the controversies surround
 _Required Readings._
 
 - Rodrik, D. (2008). Normalizing Industrial Policy (No. 28009; World Bank Publications). The World Bank.
-- Pack, H., &amp; Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
 - Rodrik, D. (2008). Second-Best Institutions. The American Economic Review, 98(2), 100–104. http://www.jstor.org/stable/29730003
 - **[Part 1 &amp; 2 Only]** Harrison, A., &amp; Rodríguez-Clare, A. (2010).\* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 
 _Suggested Readings._
-
-- Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
+- Pack, H., &amp; Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
 - Lin, J. Y., &amp; Monga, C. (2013). Comparative Advantage: The Silver Bullet of Industrial Policy. In J. E. Stiglitz &amp; J. Y. Lin (Eds.), The Industrial Policy Revolution I: The Role of Government Beyond Ideology (pp. 19–38). Palgrave Macmillan UK. https://doi.org/10.1057/9781137335173\_2
-- Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
+- Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl\_1.19
 
 _Further Readings._
 
 - Baldwin, R. E. (1969). The Case against Infant Industry Tariff Protection. Journal of Political Economy, 77(3), 295–305.
-- Krueger, A. O., &amp; Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029
-- Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
-- Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl\_1.19
 - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
 - Greenwald, B. C., &amp; Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
 
-**Associated Class Readings** (Political economy of industrial policy and controversies)
+**Associated Class Readings** (Political economy of industrial policy and empirics.)
 
-Government failures and rent-seeking.
+This class will be a short lecture. Continuation of Lecture 1.
 
-- Krueger, A. O. (1990). Government Failures in Development. The Journal of Economic Perspectives, 4(3), 9–23.
+_Required Readings._
 - Krueger, A. O. (1974). The Political Economy of the Rent-Seeking Society. The American Economic Review, 64(3), 291–303. http://www.jstor.org/stable/1808883
+- Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
 
-Political economy of the state and industrial policy.
-
-- Evans, P. B. (1992). The State as Problem and Solution: Predation, Embedded Autonomy, and Structural Change. In S. Haggard &amp; Robert R. Kaufman (Eds.), The Politics of Economic Adjustment: International Constraints, Distributive Conflicts and the State (pp. 139–181). Princeton University Press.
-- Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
+_Suggested Readings._
 - Maloney, W. F., &amp; Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
+- Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
+- Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
+
+_Further Readings._
+- Krueger, A. O., &amp; Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029
+- Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
+- Evans, P. B. (1992). The State as Problem and Solution: Predation, Embedded Autonomy, and Structural Change. In S. Haggard &amp; Robert R. Kaufman (Eds.), The Politics of Economic Adjustment: International Constraints, Distributive Conflicts and the State (pp. 139–181). Princeton University Press.
+
 
 ### Part  2 - Dynamic externalities and learning-by-doing.
 
