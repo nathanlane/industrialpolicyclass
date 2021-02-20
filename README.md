@@ -132,7 +132,7 @@ _Further readings_ are for those who want to get into the weeds of a topic. Or i
 If you are in doubt about what reading to do, just ask me. I will try to post slides and/or notes after the two-hour lectures. 
 
 
-### Part  1 - Concepts, Controversies, and the State
+### Part  1 - Concepts, Definitions, and Justifications.
 
 **Lecture Readings**
 
@@ -157,7 +157,7 @@ _Further Readings._
 
 **Associated Class Readings** (Political economy of industrial policy and empirics.)
 
-This class will be a short lecture. Continuation of Lecture 1.
+This class will be a short lecture. Continuation of Lecture 1. Here I will cover the political economy of industrial policy. Then explain what this means for the empirical problems faced by industrial policy studies. As well as growth regressions more generally.
 
 _Required Readings._
 - Krueger, A. O. (1974). The Political Economy of the Rent-Seeking Society. The American Economic Review, 64(3), 291–303. http://www.jstor.org/stable/1808883
