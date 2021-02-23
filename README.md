@@ -161,14 +161,16 @@ This class will be a short lecture. Continuation of Lecture 1. Here I will cover
 
 _Required Readings._
 - Krueger, A. O. (1974). The Political Economy of the Rent-Seeking Society. The American Economic Review, 64(3), 291–303. http://www.jstor.org/stable/1808883
+- Krueger, A. O. (1990). Government Failures in Development. The Journal of Economic Perspectives, 4(3), 9–23.
 - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
 
 _Suggested Readings._
+- Beason, R., &amp; Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
 - Maloney, W. F., &amp; Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
-- Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
 - Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
 
 _Further Readings._
+- Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
 - Krueger, A. O., &amp; Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029
 - Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
 - Evans, P. B. (1992). The State as Problem and Solution: Predation, Embedded Autonomy, and Structural Change. In S. Haggard &amp; Robert R. Kaufman (Eds.), The Politics of Economic Adjustment: International Constraints, Distributive Conflicts and the State (pp. 139–181). Princeton University Press.
@@ -185,7 +187,7 @@ _Required Readings._
 - **[Part 1 &amp; 2 Only]** Harrison, A., &amp; Rodríguez-Clare, A. (2010).\* Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 - Lucas, R. E. (1993). Making a Miracle. Econometrica, 61(2), 251–272. https://doi.org/10.2307/2951551
 - Thornton, R. A., &amp; Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
-- Beason, R., &amp; Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
+
 
 _Suggested Readings._
 
