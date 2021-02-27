@@ -146,7 +146,6 @@ _Required Readings._
 
 _Suggested Readings._
 - Pack, H., &amp; Saggi, K. (2006). Is There a Case for Industrial Policy? A Critical Survey. The World Bank Research Observer, 21(2), 267–297. https://doi.org/10.1093/wbro/lkl001
-- Lin, J. Y., &amp; Monga, C. (2013). Comparative Advantage: The Silver Bullet of Industrial Policy. In J. E. Stiglitz &amp; J. Y. Lin (Eds.), The Industrial Policy Revolution I: The Role of Government Beyond Ideology (pp. 19–38). Palgrave Macmillan UK. https://doi.org/10.1057/9781137335173\_2
 - Stiglitz, J. E. (1993). The Role of the State in Financial Markets. The World Bank Economic Review, 7(1), 19–52. https://doi.org/10.1093/wber/7.suppl\_1.19
 
 _Further Readings._
@@ -154,8 +153,10 @@ _Further Readings._
 - Baldwin, R. E. (1969). The Case against Infant Industry Tariff Protection. Journal of Political Economy, 77(3), 295–305.
 - Lipsey, R. G. (2007). Reflections on the general theory of second best at its golden jubilee. International Tax and Public Finance, 14(4), 349–364. https://doi.org/10.1007/s10797-007-9036-x
 - Greenwald, B. C., &amp; Stiglitz, J. E. (1986). Externalities in Economies with Imperfect Information and Incomplete Markets. The Quarterly Journal of Economics, 101(2), 229–264. https://doi.org/10.2307/1891114
+- Lin, J. Y., &amp; Monga, C. (2013). Comparative Advantage: The Silver Bullet of Industrial Policy. In J. E. Stiglitz &amp; J. Y. Lin (Eds.), The Industrial Policy Revolution I: The Role of Government Beyond Ideology (pp. 19–38). Palgrave Macmillan UK. https://doi.org/10.1057/9781137335173\_2
 
-**Associated Class Readings** (Political economy of industrial policy and empirics.)
+
+**Associated Class Readings** (Political economy of industrial policy.)
 
 This class will be a short lecture. Continuation of Lecture 1. Here I will cover the political economy of industrial policy. Then explain what this means for the empirical problems faced by industrial policy studies. As well as growth regressions more generally.
 
@@ -165,11 +166,13 @@ _Required Readings._
 - Lane, N. (2020). The New Empirics of Industrial Policy. Journal of Industry, Competition and Trade, 1(2), 1–26. https://doi.org/10.1007/s10842-019-00323-2
 
 _Suggested Readings._
-- Beason, R., &amp; Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
 - Maloney, W. F., &amp; Nayyar, G. (2018). Industrial Policy, Information, and Government Capacity. The World Bank Research Observer, 33(2), 189–217. http://dx.doi.org/10.1093/wbro/lkx006
 - Rodrik, D. (2012). Why We Learn Nothing from Regressing Economic Growth on Policies. Seoul Journal of Economics, 25(2), 137–151.
+- Beason, R., &amp; Weinstein, D. E. (1996). Growth, Economies of Scale, and Targeting in Japan (1955-1990). The Review of Economics and Statistics, 78(2), 286–295.
+
 
 _Further Readings._
+- Oleg Itskhoki and Ben Moll&#39;s write-up on the argument of interventions in the presence of financial frictions. See: VoxDev.
 - Pack, H. (2000). Industrial Policy: Growth Elixir or Poison? The World Bank Research Observer, 15(1), 47–67.
 - Krueger, A. O., &amp; Tuncer, B. (1982). An Empirical Test of the Infant Industry Argument. American Economic Review, 72(5), 1142–1152. http://www.jstor.org/stable/1812029
 - Harrison, A. E. (1994). An empirical test of the infant industry argument: Reply. American Economic Review, 84(4), 1096. https://doi.org/10.2307/2118048
@@ -180,7 +183,7 @@ _Further Readings._
 
 **Lecture Readings**
 
-In this section we get more precise about a set of key externalities underlying arguments for industrial policy for industrial development. We focus on two types of externalities associated with justifications of industrial policy: learning-by-doing and scale economies. The latter, is an entry point into thinking about place-based policies.
+In this section we get more precise about a set of key externalities underlying arguments for industrial policy for industrial development. We focus on two types of externalities associated with justifications of industrial policy: learning-by-doing and scale economies.
 
 _Required Readings._
 
@@ -190,23 +193,30 @@ _Required Readings._
 
 
 _Suggested Readings._
-
-- Oleg Itskhoki and Ben Moll&#39;s write-up on the argument of interventions in the presence of financial frictions. See: VoxDev.
+- Levitt, S. D., List, J. A., &amp; Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
 - Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
 - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
-- Levitt, S. D., List, J. A., &amp; Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
-- Also see Bartik versus Neumark:  Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
-- Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
+
 
 _Further Readings._
-
 - Thompson, P. (2010). Chapter 10 - Learning by Doing. In B. H. Hall &amp; I. Rosenberg (Eds.), Handbook of The Economics of Innovation, Vol. 1 (Vol. 1, pp. 429–476). North-Holland. https://doi.org/https://doi.org/10.1016/S0169-7218(10)01010-5
+- Also see Bartik versus Neumark:  Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
+- Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
 - Young, A. (1991). Learning by Doing and the Dynamic Effects of International Trade. The Quarterly Journal of Economics, 106(2), 369–405. http://dx.doi.org/10.2307/2937942
 
-**Associated Class Readings** (Place-Based Industrial Policy and Empirics)
 
-*Scheduled Discussion Class*
+**Associated Class** (Learning by doing and _within industry_ spillovers)
+
+In this class we will build on firm-level _learning by doing_ and consider the following papers. This time as as they relate to the idea of industry-level spillovers.
+
+- [Only one from required list.] Thornton, R. A., &amp; Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
+- Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
+- Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
+- Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
+
+
+*Previously Scheduled Discussion Class: Place-based policy.*
 
 Place-based policies are closely related to industrial development. They are a lot like industrial policy writ large, but also represent some of their own challenges.
 
