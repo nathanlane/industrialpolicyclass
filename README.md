@@ -248,6 +248,7 @@ _Suggested Readings._
 
 
 _Further Readings._
+- Beata Javorcik&#39;s on lessons from her FDI research [on VoxDec](https://voxdev.org/topic/firms-trade/eight-things-policymakers-should-know-about-foreign-direct-investment)
 - Martin Rotemberg&#39;s [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects
 - [FDI Section] Harrison, A., &amp; Rodríguez-Clare, A. (2010). Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
 - Grassi, B., &amp; Sauvagnat, J. (2019). Production networks and economic policy. Oxford Review of Economic Policy, 35(4), 638–677. https://doi.org/10.1093/oxrep/grz021
@@ -270,17 +271,14 @@ Networks get a little more complicated. Especially when we consider them in gene
 Industrial development and trade have a long history. They&#39;re innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The discussion of export-focused IP dovetails with our discussion of.
 
 _Required Readings._
-
-- Hausmann, R., &amp; Rodrik, D. (2003). Economic development as self-discovery. Journal of Development Economics, 72(2), 603–633. https://doi.org/https://doi.org/10.1016/S0304-3878(03)00124-X
+- Nunn, N., &amp; Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
 - Juhasz, R. (2018). Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade. American Economic Review, 108(11), 3339–3376. https://doi.org/https://doi.org/10.1257/aer.20151730
 - Harding, T., Javorcik, B. S., &amp; Maggioni, D. (2020). FDI Promotion and Comparative Advantage. http://users.ox.ac.uk/~econ0247/Harding\_Javorcik\_Maggioni.pdf
 
 _Suggested Readings._
-
 - Reka Juhasz&#39;s [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
-- Beata Javorcik&#39;s on lessons from her FDI research [on VoxDec](https://voxdev.org/topic/firms-trade/eight-things-policymakers-should-know-about-foreign-direct-investment)
-- Nunn, N., &amp; Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
 - Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
+
 
 _Further Readings._
 
