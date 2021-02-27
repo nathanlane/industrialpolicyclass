@@ -197,7 +197,7 @@ _Suggested Readings._
 - Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
 - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
-
+- Melitz, M. J. (2005). When and how should infant industries be protected? Journal of International Economics, 66(1), 177–196. https://doi.org/https://doi.org/10.1016/j.jinteco.2004.07.001
 
 _Further Readings._
 - Thompson, P. (2010). Chapter 10 - Learning by Doing. In B. H. Hall &amp; I. Rosenberg (Eds.), Handbook of The Economics of Innovation, Vol. 1 (Vol. 1, pp. 429–476). North-Holland. https://doi.org/https://doi.org/10.1016/S0169-7218(10)01010-5
@@ -224,14 +224,11 @@ Empirical issues, crowding out, and spillovers.
 
 - Kline, P., &amp; Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. The Quarterly Journal of Economics, 129(1), 275–331. https://doi.org/doi.org/10.1093/qje/qjt034
 - Ehrlich, M. v., &amp; Seidel, T. (2018). The Persistent Effects of Place-Based Policy: Evidence from the West-German Zonenrandgebiet. American Economic Journal: Economic Policy, 10(4), 344–374. https://doi.org/10.1257/pol.20160395
-
-Place-based industrial subsidies in the UK and EU.
-
 - Criscuolo, C., Martin, R., Overman, H., Reenen, J. Van, &amp; John Van Reenen. (2019). Some Causal Effects of an Industrial Policy. American Economic Review, 109(1), 48–85. https://doi.org/DOI: 10.1257/aer.20160034
-- Becker, S., Egger, P., &amp; Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. http://www.sciencedirect.com/science/article/pii/S004727271000071X
-- Becker, S. O., Egger, P. H., &amp; von Ehrlich, M. (2018). Effects of EU Regional Policy: 1989-2013. Regional Science and Urban Economics, 69, 143–152. https://doi.org/https://doi.org/10.1016/j.regsciurbeco.2017.12.001
+- Becker, S., Egger, P., &amp; Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. 
 
-### Part  3 - Externalities - Network Linkages, Clusters, and Foreign Direct Investment
+
+### Part  3 - Externalities - Linkages, Clusters, and Foreign Direct Investment
 
 **Lecture Readings**
 
@@ -240,18 +237,22 @@ The old and new: linkages. Linkages have an old idea in development economics. H
 _Required Readings._
 
 - Blonigen, B. A. (2016). Industrial Policy and Downstream Export Performance. Economic Journal, 126(595), 1635–1659. https://doi.org/10.1111/ecoj.12223
-- Lane, N. (2019). Manufacturing Revolutions. Industrial Policy and Industrial Development in South Korea. Working Paper.
 - Alfaro, L., &amp; Rodríguez-Clare, A. (2004). Multinationals and Linkages: An Empirical Investigation. Economía, 7(4), 113–169. https://doi.org/10.1353/eco.2004.0012
-- [FDI Section] Harrison, A., &amp; Rodríguez-Clare, A. (2010). Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+
 
 _Suggested Readings._
-
-- Martin Rotemberg&#39;s [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects.
-- Grassi, B., &amp; Sauvagnat, J. (2019). Production networks and economic policy. Oxford Review of Economic Policy, 35(4), 638–677. https://doi.org/10.1093/oxrep/grz021
+- Lane, N. (2019). Manufacturing Revolutions. Industrial Policy and Industrial Development in South Korea. Working Paper.
 - Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
 - Rodríguez-Clare, A. (2007). Clusters and comparative advantage: Implications for industrial policy. Journal of Development Economics, 82(1), 43–57. https://doi.org/https://doi.org/10.1016/j.jdeveco.2005.09.001
 - Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
+
+
+_Further Readings._
+- Martin Rotemberg&#39;s [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects
+- [FDI Section] Harrison, A., &amp; Rodríguez-Clare, A. (2010). Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
+- Grassi, B., &amp; Sauvagnat, J. (2019). Production networks and economic policy. Oxford Review of Economic Policy, 35(4), 638–677. https://doi.org/10.1093/oxrep/grz021
 - Giorcelli, M. (2019). The Long-Term Effects of Management and Technology Transfers. American Economic Review, 109(1), 1–33.
+
 
 **Associated Class Readings** (Industrial Networks)
 
