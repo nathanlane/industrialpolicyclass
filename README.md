@@ -216,18 +216,6 @@ In this class we will build on firm-level _learning by doing_ and consider the f
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 
 
-*Previously Scheduled Discussion Class: Place-based policy.*
-
-Place-based policies are closely related to industrial development. They are a lot like industrial policy writ large, but also represent some of their own challenges.
-
-Empirical issues, crowding out, and spillovers.
-
-- Kline, P., &amp; Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. The Quarterly Journal of Economics, 129(1), 275–331. https://doi.org/doi.org/10.1093/qje/qjt034
-- Ehrlich, M. v., &amp; Seidel, T. (2018). The Persistent Effects of Place-Based Policy: Evidence from the West-German Zonenrandgebiet. American Economic Journal: Economic Policy, 10(4), 344–374. https://doi.org/10.1257/pol.20160395
-- Criscuolo, C., Martin, R., Overman, H., Reenen, J. Van, &amp; John Van Reenen. (2019). Some Causal Effects of an Industrial Policy. American Economic Review, 109(1), 48–85. https://doi.org/DOI: 10.1257/aer.20160034
-- Becker, S., Egger, P., &amp; Ehrlich, M. Von. (2010). Going NUTS: The effect of EU Structural Funds on regional performance. Journal of Public Economics. 
-
-
 ### Part  3 - Externalities - Linkages, Clusters, and Foreign Direct Investment
 
 **Lecture Readings**
