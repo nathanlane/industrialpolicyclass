@@ -211,7 +211,7 @@ _Further Readings._
 In this class we will build on firm-level _learning by doing_ and consider the following papers. This time as as they relate to the idea of industry-level spillovers.
 
 - [Only one from required list.] Thornton, R. A., &amp; Thompson, P. (2001). Learning from Experience and Learning from Others: An Exploration of Learning and Spillovers in Wartime Shipbuilding. American Economic Review, 91(5), 1350–1368. http://www.aeaweb.org/articles?id=10.1257/aer.91.5.1350
-- Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
+- Hanlon, W. (2019). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
 - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 
@@ -223,14 +223,13 @@ In this class we will build on firm-level _learning by doing_ and consider the f
 The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying? This will include how to think the practicalities of the input-output table, and how they&#39;re used in discussing industrial policy practice. We will used the old idea of linkages to also consider the role they play in foreign direct investment (FDI).
 
 _Required Readings._
-
+- Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
 - Blonigen, B. A. (2016). Industrial Policy and Downstream Export Performance. Economic Journal, 126(595), 1635–1659. https://doi.org/10.1111/ecoj.12223
 - Alfaro, L., &amp; Rodríguez-Clare, A. (2004). Multinationals and Linkages: An Empirical Investigation. Economía, 7(4), 113–169. https://doi.org/10.1353/eco.2004.0012
 
 
 _Suggested Readings._
 - Lane, N. (2019). Manufacturing Revolutions. Industrial Policy and Industrial Development in South Korea. Working Paper.
-- Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
 - Rodríguez-Clare, A. (2007). Clusters and comparative advantage: Implications for industrial policy. Journal of Development Economics, 82(1), 43–57. https://doi.org/https://doi.org/10.1016/j.jdeveco.2005.09.001
 - Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
 
