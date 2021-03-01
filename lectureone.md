@@ -4,7 +4,7 @@ title: Lecture One - Concepts
 nav_order: 2
 ---
 
-# 1 - Concepts and Controversities
+# 1 - Concepts and Controversies
 
 Lecture 1 overview: Hilary Term Week 5. Two hour lecture, MSc. Dev. room.
 
@@ -37,11 +37,11 @@ Here we actually get pretty boring and pedantic about the definition. I give an 
 
 Why?--Why do definitions matter?
 
-First, the in unpacking definitions, we see ambigiuity about the unit of analysis. That is, a tug of war between units of analysis. On one hand, notions aggregate industrial development that policymakers may be aspiring to (shifting the composition of industrial development, or activity in some way). One the other hand, the targeting and allocation of policy towards certain sectors. 
+First, the in unpacking definitions, we see ambiguity about the unit of analysis. That is, a tug of war between units of analysis. On one hand, notions aggregate industrial development that policymakers may be aspiring to (shifting the composition of industrial development, or activity in some way). One the other hand, the targeting and allocation of policy towards certain sectors. 
 
-Second, the definition of industrial policy we're concerned with entails "intentional state action." Idustrial policy is necessarily the purview of the state, and thus is intimately intertwined with aspects of the state. 
+Second, the definition of industrial policy we're concerned with entails "intentional state action." Industrial policy is necessarily the purview of the state, and thus is intimately intertwined with aspects of the state. 
 
-Third, within the definition of industrial policy (as many people discuss it) is a counterfactual. Consider the case of national-level policy. Here, we are deploying policy with hopes some aggregate industrial outcome evolving differently, than had the economy not experienced that intervention.
+Third, within the definition of industrial policy (as many people discuss it) is a counter-factual. Consider the case of national-level policy. Here, we are deploying policy with hopes some aggregate industrial outcome evolving differently, than had the economy not experienced that intervention.
 
 Thus, in the class the definition opens up conceptual and empirical issues that will be repeated in each lecture.
 
@@ -52,7 +52,7 @@ I also discuss the aspects of industrial policy in a (post) globalised world.
 
 In particular, we ask do these policies matter in terms of, 
 
-First, the international Neoliberal institutions that constrain the use of conventional (postwar) industrial policies? In particular, the reduction in tariffs over second half of the 20th century. 
+First, the international, Neoliberal institutions that constrain the use of conventional (postwar) industrial policies. We consider the use of non-tariff barriers over the past 15 years against the reduction in tariffs over second half of the 20th century. 
 
 Second, the emergence of global value chain and the fragmentation of production across the globe. In doing so, we consider the "smile curve" -- and what it may mean for policymakers in middle and Lower income countries. 
 
@@ -70,7 +70,7 @@ Before doing so we consider, first, what we mean by policy-making in a "second-b
 
 We used Dani Rodrik's short article on the _second best_ policy making to then think about the circumstances underlying industrial policy interventions: market failures. 
 
-Many of the readings on the course list and many reviews of industrial policy try to review, catalogue, and organise coherent taxonomies of market failures that underpin their application. The taxonomy I present is _ad hoc_ and _loose_. Mainly for the purposes of organising the class content. 
+Many of the readings on the course list and many reviews of industrial policy try to review, catalog, and organise coherent taxonomies of market failures that underpin their application. The taxonomy I present is _ad hoc_ and _loose_. Mainly for the purposes of organising the class content. 
 
 This is just meant to be illustrative. In general, the more I think about market failures, the harder I find it to organise them in analytically clean ways. 
 
