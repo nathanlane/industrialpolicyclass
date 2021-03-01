@@ -1,3 +1,11 @@
+---
+layout: default
+title: Class Home
+nav_order: 1
+description: "Home page for Nathaniel Lane's Industrial Policy and Development class. Taught under the Development Economics MSc. at University of Oxford."
+permalink: /
+---
+
 # Industrial Policy Class
 {: .no_toc}
 
