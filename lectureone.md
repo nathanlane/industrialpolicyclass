@@ -4,8 +4,14 @@ title: Lecture One - Concepts
 nav_order: 2
 ---
 
+
+
 # Lecture 1 - Concepts, Controversities and (next) the State.
+
 Hilary Term Week 5. Two hour lecture, MSc. room.
+
+
+Below I summarise key aspects of the lecture and provide the sources used in the lecture. 
 
 
 This lecture was focused on basics conceptual basics., and organised as follows:
@@ -65,6 +71,11 @@ We used Dani Rodrik's short article on the _second best_ policy making to then t
 Many of the readings on the course list and many reviews of industrial policy try to review, catalogue, and organise coherent taxonomies of market failures that underpin their application. The taxonomy I present is _ad hoc_ and _loose_. Mainly for the purposes of organising the class content. 
 
 This is just meant to be illustrative. In general, the more I think about market failures, the harder I find it to organise them in analytically clean ways. 
+
+
+## (Next) Government vs. Market Failure. 
+
+While theoretical justifications for industrial seem plentiful, why is there controversies? The next class (Class 1), juxtaposes the theoretical optimism surrounding interventions with the political realities that coincided with the use of industrial policy. Specifically, in the rise of modern, structural development. 
 
 
 
