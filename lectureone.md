@@ -1,15 +1,12 @@
 ---
 layout: default
 title: Lecture One - Concepts
-nav_order: 2
+nav_order: 3
 ---
 
+# 1 - Concepts and Controversities
 
-
-# Lecture 1 - Concepts, Controversities and (next) the State.
-
-Hilary Term Week 5. Two hour lecture, MSc. room.
-
+Lecture 1 overview: Hilary Term Week 5. Two hour lecture, MSc. Dev. room.
 
 Below I summarise key aspects of the lecture and provide the sources used in the lecture. 
 
@@ -23,6 +20,11 @@ This lecture was focused on basics conceptual basics., and organised as follows:
 	a. Second-best v. first-best policy
 	b. Market failures - a taxonomy
 	c. (Next) Government failures.
+
+
+1. TOC
+{:toc}
+
 
 In a sense, we want to set the terms of the class. In particular, one that is about how industrial policy affects industrial development (if at all).
 
