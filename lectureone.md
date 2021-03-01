@@ -4,7 +4,7 @@ title: Lecture One - Concepts
 nav_order: 2
 ---
 
-# 1 - Concepts and Controversies
+# 1 - Concepts, Definitions, and Justifications.
 
 Lecture 1 overview: Hilary Term Week 5. Two hour lecture, MSc. Dev. room.
 
@@ -62,7 +62,7 @@ The later is an entry point for thinking about an import aspect of the class--ho
 
 
 
-## Theories of __Second-Best__ and __Market Failures.__
+## Theories of _Second-Best_ and _Market Failures._
 
 Finally, we touched on the important conceptual arguments underlying industrial policy: market failures.
 
@@ -75,7 +75,7 @@ Many of the readings on the course list and many reviews of industrial policy tr
 This is just meant to be illustrative. In general, the more I think about market failures, the harder I find it to organise them in analytically clean ways. 
 
 
-## (Next) Government vs. Market Failure. 
+## (Next) Government Failures vs. Market Failure. 
 
 While theoretical justifications for industrial seem plentiful, why is there controversies? The next class (Class 1), juxtaposes the theoretical optimism surrounding interventions with the political realities that coincided with the use of industrial policy. Specifically, in the rise of modern, structural development. 
 
