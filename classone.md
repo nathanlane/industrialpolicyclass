@@ -18,7 +18,7 @@ We consider why and how enthusiasm of industrial policy is tempered by political
 
 I introduce a bit of history here, by considering the era of structural economics--also referred to as the era of "high developmentalism." Where industrial policy interventions were almost synonymous with development economics. 
 
-I introduced the parable of post-independence Ghana under the leadership of the famous Kwame Nkrumah. Who enlisted the help of none other than Sir Arthur Lewis to construct the Second Development Plan of the newly independent nation.
+I introduced the parable of post-independence Ghana under the leadership of the Kwame Nkrumah. Who enlisted the help of none other than Sir Arthur Lewis to construct the Second Development Plan of the newly independent nation.
 
 I use Lewis' fallout with the regime as an entry point for thinking about the ways in which technocratic considerations around market failures can be subverted by the realities of domestic political economy. 
 
@@ -37,14 +37,13 @@ I juxtaposed a technocratic policy selection, to cases where we add political ec
 
 To illustrate how political economy forces may affect the selection of optimum policy, I consider the theoretical literature on the political economy of trade policy. Specifically, I discuss (at a very high level), the classic Grossman-Helpman (1999) model of "Protection for Sale."
 
-By merely considering the structure of the "game" (between politicians abd lobbies) introduced by the now-classic Grossman-Helpman model, one sees how political constituencies and political incentives complicate the selection of welfare-maximising policy. 
+By merely considering the structure of the "game" (between politicians and lobbies) introduced by the now-classic Grossman-Helpman model, one sees how political constituencies and political incentives complicate the selection of welfare maximising policy. 
 
 
 The discussion of this these concepts highlight the distinction between _political feasibility_ versus _economic feasibility_. I feel this distinction  was taken quite seriously in the theoretical considerations of political economy of trade policy, and this distinction is useful in considering the economic justifications of industrial policies versus the political realities underlying these policies. Political economy forces are what makes these policies the object of "protectionist entrepreneurs," in the words of Robert Baldwin (1989).
 
 
-
-### Information and Political Economy 
+## Information and Political Economy 
 
 We then consider a related question on the political feasibility of industrial policy: _do governments have adequate information to target policy?_
 
