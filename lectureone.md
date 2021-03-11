@@ -11,7 +11,7 @@ Lecture 1 overview: Hilary Term Week 5. Two hour lecture, MSc. Dev. room.
 Below I summarise key aspects of the lecture and provide the sources used in the lecture. 
 
 
-This lecture was focused on basics conceptual basics., and organised as follows:
+This lecture was focused on basics conceptual basics, and organised as follows:
 
 1. Basics
 	a. What is industrial policy.
