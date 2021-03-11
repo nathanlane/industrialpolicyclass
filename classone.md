@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture One - Concepts
+title: Class One - Political Economy and Information.
 nav_order: 3
 ---
 
