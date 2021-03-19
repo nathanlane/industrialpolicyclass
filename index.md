@@ -272,16 +272,17 @@ _Required Readings._
 
 _Suggested Readings._
 - Reka Juhasz&#39;s [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
+international-business-cycle-transmission-firm-level-evidence
 - Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
 
 
 _Further Readings._
-
+- Kramarz, F., Martin, J., & Mejean, I. (2019) write-up "Idiosyncratic risks and the volatility of trade" on [VoxEU](https://voxeu.org/article/international-business-cycle-transmission-firm-level-evidence)
 - Atkin, D., Donaldson, D., Rasul, I., Teachout, M., Verhoogen, E., &amp; Woodruff, C. (2019). Firms, trade, and productivity (IGC Evidence Paper, Issue December).
 - Belloc, M., &amp; Maio, M. Di. (2011). Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries (Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries).
-- Harris, R., Keay, I., &amp; Lewis, F. (2015). Protecting infant industries: Canadian manufacturing and the national policy, 1870–1913. Explorations in Economic History, 56, 15–31. https://doi.org/https://doi.org/10.1016/j.eeh.2015.01.001
-- Alexander, P. D., &amp; Keay, I. (2018). A general equilibrium analysis of Canada&#39;s national policy. Explorations in Economic History, 68, 1–15. https://doi.org/https://doi.org/10.1016/j.eeh.2017.11.002
 - Greenwald, B., &amp; Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
+
+- 
 
 **Associated Class Readings** (Export-Promotion and Empirics)
 
