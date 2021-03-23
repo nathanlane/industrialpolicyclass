@@ -273,16 +273,17 @@ _Required Readings._
 _Suggested Readings._
 - Reka Juhasz&#39;s [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
 international-business-cycle-transmission-firm-level-evidence
-- Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
+- Bhagwati, J. N. (1988). Export-Promoting Trade Strategy: Issues and Evidence. The World Bank Research Observer, 3(1), 27–57. http://www.jstor.org/stable/3986522
+
 
 
 _Further Readings._
 - Kramarz, F., Martin, J., & Mejean, I. (2019) write-up "Idiosyncratic risks and the volatility of trade" on [VoxEU](https://voxeu.org/article/international-business-cycle-transmission-firm-level-evidence)
+- Greenwald, B., &amp; Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
 - Atkin, D., Donaldson, D., Rasul, I., Teachout, M., Verhoogen, E., &amp; Woodruff, C. (2019). Firms, trade, and productivity (IGC Evidence Paper, Issue December).
 - Belloc, M., &amp; Maio, M. Di. (2011). Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries (Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries).
-- Greenwald, B., &amp; Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
+- Verhoogen, E. (2020). Firm‐Level Upgrading in Developing Countries (No. 83; CDEP‐CGEG).
 
-- 
 
 **Associated Class Readings** (Export-Promotion and Empirics)
 
