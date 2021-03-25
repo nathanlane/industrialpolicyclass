@@ -187,11 +187,11 @@ _Further Readings._
 - Evans, P. B. (1992). The State as Problem and Solution: Predation, Embedded Autonomy, and Structural Change. In S. Haggard &amp; Robert R. Kaufman (Eds.), The Politics of Economic Adjustment: International Constraints, Distributive Conflicts and the State (pp. 139–181). Princeton University Press.
 
 
-### Part  2 - Dynamic externalities and learning-by-doing.
+### Part  2 - Learning-by-doing: within firm and across firm learning-by-doing.
 
 **Lecture Readings**
 
-In this section we get more precise about a set of key externalities underlying arguments for industrial policy for industrial development. We focus on two types of externalities associated with justifications of industrial policy: learning-by-doing and scale economies.
+In this section we get more precise about about another justification for industrial policy: learning-by-doing. We split the lecture and class into internal and external scale economies. Put differently, learning-by-doing forces that exist within the firm and learning-by-doing spillovers across firms, usually within an industry.
 
 _Required Readings._
 
@@ -204,14 +204,13 @@ _Suggested Readings._
 - Levitt, S. D., List, J. A., &amp; Syverson, C. (2013). Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant. Journal of Political Economy, 121(4), 643–681. https://doi.org/10.1086/671137
 - Hanlon, W. (2018). The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.
 - Mitrunen, M. (2019). War Reparations, Structural Change, and Intergenerational Mobility.
-- Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 - Melitz, M. J. (2005). When and how should infant industries be protected? Journal of International Economics, 66(1), 177–196. https://doi.org/https://doi.org/10.1016/j.jinteco.2004.07.001
 
 _Further Readings._
+- Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 - Thompson, P. (2010). Chapter 10 - Learning by Doing. In B. H. Hall &amp; I. Rosenberg (Eds.), Handbook of The Economics of Innovation, Vol. 1 (Vol. 1, pp. 429–476). North-Holland. https://doi.org/https://doi.org/10.1016/S0169-7218(10)01010-5
 - Also see Bartik versus Neumark:  Bartik, T. J. (2020). SMART PLACE-BASED POLICIES CAN IMPROVE LOCAL LABOR MARKETS. Journal of Policy Analysis and Management, 39(3), 844–851. https://doi.org/https://doi.org/10.1002/pam.22224
 - Neumark, D. (2020). WHAT PLACES SHOULD WE TARGET, AND HOW? Journal of Policy Analysis and Management, 39(3). https://doi.org/10.1002/pam.22227
-- Young, A. (1991). Learning by Doing and the Dynamic Effects of International Trade. The Quarterly Journal of Economics, 106(2), 369–405. http://dx.doi.org/10.2307/2937942
 
 
 **Associated Class** (Learning by doing and _within industry_ spillovers)
@@ -224,11 +223,14 @@ In this class we will build on firm-level _learning by doing_ and consider the f
 - Hanlon, W. (2018). Skilled Immigrants and American Industrialization: Lessons from Newport News Shipyard.
 
 
-### Part  3 - Externalities - Linkages, Clusters, and Foreign Direct Investment
+### Part  3 - Spillovers from Linkages, Clusters, and Foreign Direct Investment
 
 **Lecture Readings**
 
-The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying? This will include how to think the practicalities of the input-output table, and how they&#39;re used in discussing industrial policy practice. We will used the old idea of linkages to also consider the role they play in foreign direct investment (FDI).
+The old and new: linkages. Linkages have an old idea in development economics. How to think about them, what do they mean, what is current work saying? This will include how to think the practicalities of the input-output table, and how they&#39;re used in discussing industrial policy practice. 
+
+We use the old idea of linkages to also consider the role they play in foreign direct investment (FDI). While FDI can be considered distinct from industrial policy, the benefits of FDI are thought to accrue through linkages. These linkage effects of FDI are a bit different than those associated with classic "hard" industrial interventions.
+
 
 _Required Readings._
 - Javorcik, B. S. (2004). Does foreign direct investment increase the productivity of domestic firms? In search of spillovers through backward linkages. The American Economic Review, 94(3), 605–627.
@@ -239,46 +241,42 @@ _Required Readings._
 _Suggested Readings._
 - Lane, N. (2019). Manufacturing Revolutions. Industrial Policy and Industrial Development in South Korea. Working Paper.
 - Rodríguez-Clare, A. (2007). Clusters and comparative advantage: Implications for industrial policy. Journal of Development Economics, 82(1), 43–57. https://doi.org/https://doi.org/10.1016/j.jdeveco.2005.09.001
-- Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
 
 
 _Further Readings._
 - Beata Javorcik&#39;s on lessons from her FDI research [on VoxDec](https://voxdev.org/topic/firms-trade/eight-things-policymakers-should-know-about-foreign-direct-investment)
+- Rodríguez-Clare, A. (1996). Multinationals, Linkages, and Economic Development. The American Economic Review, 86(4), 852–873.
 - Martin Rotemberg&#39;s [VoxDev](https://voxdev.org/topic/firms-trade/implication-firm-competition-industrial-policies) writeup on industrial policy subsidues and their general equilibrium effects
 - [FDI Section] Harrison, A., &amp; Rodríguez-Clare, A. (2010). Trade, Foreign Investment, and Industrial Policy for Developing Countries. In D. Rodrik &amp; M. Rosenzweig (Eds.), Handbooks in Economics (Vol. 5, pp. 4039–4214). Elsevier.
-- Grassi, B., &amp; Sauvagnat, J. (2019). Production networks and economic policy. Oxford Review of Economic Policy, 35(4), 638–677. https://doi.org/10.1093/oxrep/grz021
 - Giorcelli, M. (2019). The Long-Term Effects of Management and Technology Transfers. American Economic Review, 109(1), 1–33.
 
 
-**Associated Class Readings** (Industrial Networks)
+**Associated Class Readings** (Diving deeper into industrial networks.)
 
-*Scheduled Discussion Class*
-
-Networks get a little more complicated. Especially when we consider them in general equilibrium models, or in quantitative detail. This section is about taking some deep dives into linkage topics.
+In this classed we considered industrial networks more seriously. Thinking about my work along with a student presentation of Liu. Please note: you should know industrial networks, but you do *not* need to know these papers in a detailed way. The goal, rather, is to understand the nature of network spillovers. In particular, forward and backward linkage effects
 
 - Liu, E. (2019). Industrial Policies in Production Networks. Quarterly Journal of Economics, Forthcoming.
-- Rotemberg, M. (2019). Equilibrium Effects of Firm Subsidies. American Economic Review, 109(10), 3475–3513. https://doi.org/10.1257/aer.20171840
 
-### Part  4 - Trade - Protectionism, ISI, and Export-Led Industrial Development
+
+
+### Part  4 - Trade - Infant Industry Protection and Export-Led Industrial Development
 
 **Lecture Readings**
 
-Industrial development and trade have a long history. They&#39;re innately intertwined. Here we talk about the industrial policy in terms of trade policy. Principally by juxtaposing import substitution verses export promotion. The discussion of export-focused IP dovetails with our discussion of.
+We now turn to industrial policy and justifications in the realm of trade. The first part of the lecture considers why arguments around protectionism may still linger and how they relate to learning-by-doing externalities. In addition, we consider the theoretical justifications for protection from import competition through the lens of Schumpeterian dynamics and the scale economies introduced by knowledge.
 
 _Required Readings._
 - Nunn, N., &amp; Trefler, D. (2010). The Structure of Tariffs and Long-Term Growth. American Economic Journal: Macroeconomics, 2(4), 158–194.
 - Juhasz, R. (2018). Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade. American Economic Review, 108(11), 3339–3376. https://doi.org/https://doi.org/10.1257/aer.20151730
-- Harding, T., Javorcik, B. S., &amp; Maggioni, D. (2020). FDI Promotion and Comparative Advantage. http://users.ox.ac.uk/~econ0247/Harding\_Javorcik\_Maggioni.pdf
 
 _Suggested Readings._
 - Reka Juhasz&#39;s [VoxEU](https://voxeu.org/article/temporary-protection-and-technology-adoption-evidence-napoleonic-blockade) write-up on the Napoleonic Blockade.
-international-business-cycle-transmission-firm-level-evidence
 - Bhagwati, J. N. (1988). Export-Promoting Trade Strategy: Issues and Evidence. The World Bank Research Observer, 3(1), 27–57. http://www.jstor.org/stable/3986522
-
+- Kramarz, F., Martin, J., & Mejean, I. (2019) write-up "Idiosyncratic risks and the volatility of trade" on [VoxEU](https://voxeu.org/article/international-business-cycle-transmission-firm-level-evidence)
 
 
 _Further Readings._
-- Kramarz, F., Martin, J., & Mejean, I. (2019) write-up "Idiosyncratic risks and the volatility of trade" on [VoxEU](https://voxeu.org/article/international-business-cycle-transmission-firm-level-evidence)
+- Harding, T., Javorcik, B. S., &amp; Maggioni, D. (2020). FDI Promotion and Comparative Advantage. http://users.ox.ac.uk/~econ0247/Harding\_Javorcik\_Maggioni.pdf
 - Greenwald, B., &amp; Stiglitz, J. E. (2006). Helping Infant Economies Grow: Foundations of Trade Policies for Developing Countries. American Economic Review, 96(2), 141–146. http://www.aeaweb.org/articles?id=10.1257/000282806777212206
 - Atkin, D., Donaldson, D., Rasul, I., Teachout, M., Verhoogen, E., &amp; Woodruff, C. (2019). Firms, trade, and productivity (IGC Evidence Paper, Issue December).
 - Belloc, M., &amp; Maio, M. Di. (2011). Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries (Survey of the Literature on Successful Strategies and Practices for Export Promotion by Developing Countries).
@@ -287,15 +285,9 @@ _Further Readings._
 
 **Associated Class Readings** (Export-Promotion and Empirics)
 
-*Scheduled Discussion Class*
+While the trade lecture focused on ISI and protectionism, we now turn to export activity.  
 
-Topics on export policy and promotion.
-
-- Munch, J., &amp; Schaur, G. (2018). The Effect of Export Promotion on Firm-Level Performance. American Economic Journal: Economic Policy, 10(1), 357–387. http://www.aeaweb.org/articles?id=10.1257/pol.20150410
 - Freund, C., &amp; Pierola, M. D. (2015). Export Superstars. The Review of Economics and Statistics, 97(5), 1023–1032. http://www.jstor.org/stable/43830293
-- Garcia-Marin, A., &amp; Voigtländer, N. (2019). Exporting and Plant-Level Efficiency Gains: It&#39;s in the Measure. Journal of Political Economy, 127(4), 1777–1825.
 - Harding, T., &amp; Javorcik, B. S. (2011). Foreign Direct Investment and Export Upgrading. The Review of Economics and Statistics, 94(4), 964–980. https://doi.org/10.1162/REST\_a\_00226
-- Atkin, D., Khandelwal, A. K., &amp; Osman, A. (2017). Exporting and Firm Performance: Evidence from a Randomized Experiment. The Quarterly Journal of Economics, 132(2), 551–615. http://dx.doi.org/10.1093/qje/qjx002
 
 
-List name: ODID\_MSc ED\_Industrial Development\_HT 
