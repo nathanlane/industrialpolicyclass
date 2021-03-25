@@ -43,7 +43,7 @@ _Teams Group for Module_ - Ongoing. On the Canvas course webpage I have posted t
 
 This module is about industrial policy and industrial development. More precisely, how the former is used to promote the latter. We will study the means by which states encourage (or, historically, stymie) the evolution of industry, and shape the composition of economic activity. In doing so, we will attempt to understand the practice of industrial policy; the arguments for and against; and the ways in which we can start thinking about industrial policies empirically.
 
-This class will focus on practice and evidence. While this class covers theoretical arguments behind industrial policy, the focus will be on empirics. More precisely, how scholars, practitioners, and policymakers might evaluate the efficacy of these policies. This class is an excellent follow-up to Douglas Gollin's Structural Transformation module and complements Christian Meyer's labour and firms module. However, none of these are necessary.
+This class will focus on practice and evidence. While this class covers theoretical arguments behind industrial policy, the focus will be on empirics. More precisely, how scholars, practitioners, and policymakers might evaluate the efficacy of these policies. This class is an excellent follow-up to Douglas Gollin's structural transformation module and complements Christian Meyer's labour and firms module. However, none of these are necessary.
 
 
 ### Objectives
@@ -79,7 +79,7 @@ The meeting times,
 - Week 7 - Lecture 3 -  Friday, 3.00–5.00pm (GMT)  
 - Week 8 - Class 3 - Thurday, 3.30–4.30pm (GMT) 
 - Week 8 - Lecture 4 -  Friday, 3.00–5.00pm (GMT) 
-- Week 8 - Class 4 - __Saturday__, 10.30am–11.30am (GMT) _(Week 8 only)_ 
+- Week 9 - Class 4 - Friday, 3.30–5.00pm (GMT) [Rescheduled.]
 
 I will also schedule revision sessions in Trinity Term for students who wish to talk through sample essay topics and to prepare for exams. These dates are TBD. Watch this space.
 
