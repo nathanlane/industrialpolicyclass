@@ -8,9 +8,13 @@ nav_order: 3
 
 Class 1 overview: Hilary Term Week 6. One hour lecture, MSc. Dev. room.
 
+1. TOC
+{:toc}
+
 In the previous class we introduced the impetus of industrial policies. Specifically, the idea of a second-best world and my ad hoc taxonomy of market failures. 
 
 The focus of this short class was to think about the other side of the market failure justification of industrial policy: __government failures__. And related to this, the theory of rent seeking. 
+
 
 ## "Structural development" as the background for Krueger's "Government Failure."
 
@@ -28,7 +32,7 @@ I briefly illustrate this tension by consider a well-studied area in development
 
 
 
-## Optimal Policy and Endogenesing Political Economy
+## Optimal Policy and Endogenising Political Economy
 
 
 I consider political economy of optimal policy by consider a typical theoretical problem seem in public economics. Specifically, the analysis of optimal policy as chosen by a welfare maximising planner. I illustrated the selection of policy illustrating the policy decision of a planner in an optimal infant industry policy with learning-by-doing dynamics (Melitz 2004).
