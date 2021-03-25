@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lecture Two - Learning by Doing.
+title: Lecture 2 - Learning by Doing
 nav_order: 4
 ---
 
-# 2 - Learning by Doing and Scale Economies
+# Lecture 2 - Learning by Doing and Scale Economies
 
 Lecture 2 overview: Hilary Term Week 6. Two hour lecture, MSc. Dev. room.
 

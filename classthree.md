@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Class Three - Linkage General Equilibrium
+title: Class 3 - Networks
 nav_order: 7
 ---
 

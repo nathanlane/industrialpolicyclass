@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lecture Four - Networks
-nav_order: 4
+title: Lecture 4 - Trade Policy
+nav_order: 8
 ---
 
 # Four - Trade Policy and Infant Industry Policy

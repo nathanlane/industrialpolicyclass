@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture One - Concepts
+title: Lecture 1 - Concepts
 nav_order: 2
 ---
 

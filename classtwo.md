@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Class Two - External Learning by Doing
+title: Class 2 - External Scale Economies
 nav_order: 5
 ---
 
-# Class Two - Learning by Doing Externalities Within Firm
+# Class Two - Learning by Doing, Across Firms and Within Industry 
 
 Class 2 overview: Hilary Term Week 7. One hour lecture, MSc. Dev. room.
 

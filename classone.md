@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Class One - Political Economy and Information.
+title: Class 1 - Political Economy
 nav_order: 3
 ---
 
-# Class 1 - Political Economy and Information of Industrial Policies.
+# Class 1 - Political Economy and Informational Dimensions of Industrial Policy.
 
 Class 1 overview: Hilary Term Week 6. One hour lecture, MSc. Dev. room.
 
@@ -13,7 +13,7 @@ Class 1 overview: Hilary Term Week 6. One hour lecture, MSc. Dev. room.
 
 In the previous class we introduced the impetus of industrial policies. Specifically, the idea of a second-best world and my ad hoc taxonomy of market failures. 
 
-The focus of this short class was to think about the other side of the market failure justification of industrial policy: __government failures__. And related to this, the theory of rent seeking. 
+The focus of this short class was to think about the other side of the market failure justification of industrial policy: __government failures__. Accordingly, we consider a related concept as it relates to industrial policy, __rent seeking__. 
 
 
 ## "Structural development" as the background for Krueger's "Government Failure."

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture Four - Export Policy
+title: Lecture 4 - Export Policy
 nav_order: 9
 ---
 
