@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture 3 - Linkages & FDI.
+title: Lecture 3 - Linkages & FDI
 nav_order: 6
 ---
 
