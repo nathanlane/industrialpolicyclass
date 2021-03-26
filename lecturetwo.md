@@ -12,7 +12,49 @@ Lecture 2 overview: Hilary Term Week 6. Two hour lecture, MSc. Dev. room.
 {:toc}
 
 
-## Learning by Doing: Internal vs. External Scale Economies.
+
+## Concepts: Learning curves, welfare, and justifications for infant industry policy.
+
+By learning by doing, we mean that the average costs faced by firms or industries decline with experience. Or more specifically, cumulative experience or output. As we will see, there are a number of ways to consider what we mean by experience. 
+
+I open the class by revisiting the Melitz(2005) model of infant industry policy with learning by doing dynamics. 
+
+- The "learning curve" in the LBD model of the world.
+- How the geometry of this learning curve, initial costs, and other features, interact with welfare-based justifications of industrial policy.
+- The Mills-Bastable Test: one such tool used to think about the welfare-based justification for infant industry policy.
+
+(Note: You do not need to know this model or derive it. It is merely informative for thinking about a number of conceptual building blocks.)
+
+The Mills-Bastable actual embeds two ideas actually, which we unpack a bit in the lecture. One idea being that a firm or industry ought to be competitive or self-sufficient at some point in time. Second, the idea that the costs incurred by the policy planning period should be justified by the welfare gains.
+
+The crux of this model time. That horizons and time periods matter for learning to occur. Time also matters in the way we justify the policy. 
+
+## The static versus dynamic dichotomy: welfare, advantage, and scale.
+
+
+What becomes apparent in this lecture is an important dichotomy in industrial policy thinking: the distinction between _static_ and _dynamic_. We see this concept make a cameo in the derivation of the lecture. 
+
+In the Mills-Bastable test above, there is a concept of the welfare that is realised in a single point of time, versus the dynamic welfare considerations. The latter being the welfare that accumulates through time as a result of learning.
+
+Learning by doing---as shown through the learning curve---also presents a distinction between _static_ and _dynamic_ comparative advantage of an industry. LBD dynamics in the model mean that the cost advantage of an industry can change, from the initial cost advantage of the industry at time zero (static comparative advantage), to one that is realised under Melitz's infant industry policy. Which is the dynamic comparative advantage.
+
+
+
+## Learning by doing: internal vs. external scale economies.
+
+The concept of  "learning by doing" is intimately connected to the idea of _increasing returns to scale_. We may already by acquainted with this idea from the models we see in trade or economic geography or growth. Often, however, we are consider _static_ increasing returns to scale. Yet, LBD generates a source of increasing returns to scale that is _dynamic_ in nature. 
+
+Like I said, the static versus dynamic dichotomy is always cropping up. 
+
+Just as increasing returns to scale can come in different forms (we will see this later with knowledge externalities) "learning by doing" can mean a number of things. They can often get conflated.
+
+In the world of learning by doing, we often think of two forms of learning:
+
+- __Within firm LBD__ - A form of _internal_ economies of scale (Lecture 2). Firms experience average costs that are decreasing in cumulative experience or output. Internal economies of scale are inherently linked to imperfect competition.
+
+- __Within aggregate unit__ - A form of _external_ economies of scale (Class 2). Here economies of scale occur at industry (or geographic) level. Individual firm costs decline with _industry_ experience output. May not do so at firm level. 
+
+The latter form of LBD is key. Why? It implies spillovers between individual firm actions and the aggregate market they are operating in.
 
 
 
